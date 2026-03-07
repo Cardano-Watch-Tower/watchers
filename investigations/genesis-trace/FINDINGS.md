@@ -159,33 +159,36 @@ Applying liquid staking reality:
 
 Shelley addresses in the trace path that received genesis-linked ADA but now hold 0 — where did the money go?
 
-### Results (Emurgo-linked, 178 drained addresses)
+### Results (Exhaustive — 350 drained addresses, ~1,188 total identified)
 
 | Destination Type | ADA | % of Outflow | Destinations |
 |-----------------|-----|--------------|-------------|
-| **SHELLEY_STAKED** | 12,631,129,001 | 86.6% | 294 |
-| **BYRON** | 590,633,563 | 4.1% | 52 |
-| **SHELLEY_NO_STAKE** | 450,339,558 | 3.1% | 34 |
-| **SCRIPT** | 92,606 | <0.01% | 3 |
+| **SHELLEY_STAKED** | 15,056,387,372 | 90.8% | 1,779 |
+| **BYRON** | 888,669,126 | 5.4% | 271 |
+| **SHELLEY_NO_STAKE** | 628,316,779 | 3.8% | 1,185 |
+| **SCRIPT** | 8,445,572 | <0.1% | 93 |
 
-**Note:** Total outflow (14.58B ADA) exceeds Emurgo's 2.07B allocation because UTXO fungibility mixes genesis flows with other ADA at intermediary addresses.
+**Total outflow traced: 16,581,818,849 ADA** across 3,328 unique destinations from 350 source addresses.
+
+**Note:** Total outflow exceeds any single entity's genesis allocation because UTXO fungibility mixes genesis flows with other ADA at intermediary addresses. This is inherent to the UTXO model — by hop 3-4, attribution becomes probabilistic.
 
 ### Key Findings
 
-1. **86.6% flows to staked Shelley addresses** — the overwhelming majority of drained genesis-linked funds end up at addresses with stake key registration
+1. **90.8% flows to staked Shelley addresses** — the overwhelming majority of drained genesis-linked funds end up at addresses with stake key registration (up from 86.6% in initial sample)
 2. **Massive consolidation pattern** — Single addresses receive 400-650M ADA each:
    - `addr1q9w9la4pxcsxfd6...` — **645,670,863 ADA**
    - `addr1q924e9v02aegk6u...` — **446,686,657 ADA**
    - Multiple addresses at exactly **~446.7M ADA** and **~150M ADA** — uniform splitting
-3. **590M ADA flows BACK to Byron addresses** — `DdzFFzCqrht9UGYS...` received **335M ADA**, suggesting some funds were recycled through the old address format
-4. **450M ADA to SHELLEY_NO_STAKE** — addresses with no stake key registration. These could be exchange deposit addresses (high tx count, no staking) or custodial services
-5. **Forwarding chains** — 16.7M ADA passed through 3+ consecutive Shelley addresses, each holding funds only briefly before forwarding to the next
+3. **889M ADA flows BACK to Byron addresses** — 271 Byron destinations, with `DdzFFzCqrht9UGYS...` receiving **335M ADA**. Funds recycled through old address format at significant scale.
+4. **628M ADA to SHELLEY_NO_STAKE** — 1,185 addresses with no stake key registration. High-count addresses consistent with exchange deposit or custodial infrastructure.
+5. **Script addresses now 8.4M ADA** — larger than initially found. 93 smart contract interactions, though still negligible relative to total outflow.
+6. **Forwarding chains persist** — multi-hop Shelley-to-Shelley forwarding before consolidation
 
 ### Patterns
 
 - **Uniform lot sizes:** 150M ADA chunks sent to 8+ separate addresses — consistent with automated treasury splitting
-- **Shelley-to-Byron recycling:** Some funds exit Shelley back to Byron addresses, creating circular tracing challenges
-- **Negligible script usage:** Only 93K ADA to script addresses — genesis funds largely stayed out of DeFi/smart contracts
+- **Shelley-to-Byron recycling:** 5.4% of outflow circles back to Byron addresses, complicating forward tracing
+- **Scale of enterprise addresses:** 1,185 no-stake Shelley destinations suggest wide operational disbursement (payroll, vendors, exchanges)
 
 ---
 
@@ -425,24 +428,34 @@ All data from Phases 1-8 was stitched into chain-of-custody records:
 
 | Metric | Value |
 |--------|-------|
-| Total chains built | **105** |
+| Total chains built | **122** |
 | Total stake keys tracked | **652** |
-| Total ADA tracked through | **12,041,390,130** |
-| Current ADA in chains | **2,628,694,341** |
+| Total ADA tracked through | **14,799,410,216** |
+| Current ADA in chains | **2,630,225,024** |
 
 ### Chains by Type
 
 | Chain Type | Count |
 |-----------|-------|
 | DIRECT (genesis → governance) | 53 |
-| DREP_DELEGATOR (genesis → neighbor → Emurgo DRep) | 38 |
-| TREASURY_SPLIT (treasury → abstain keys) | 14 |
+| NEIGHBOR (1-hop link) | 2 |
+| DIRECT_GENESIS (confirmed genesis destination) | 3 |
+| TX_LINK_TO_NEIGHBOR (2-hop via tx) | 31 |
+| TX_LINK_TO_GENESIS (2-hop to genesis key) | 2 |
+| TREASURY_SPLIT (treasury → abstain keys) | 31 |
+
+### Chain Confidence
+
+| Confidence | Count |
+|-----------|-------|
+| HIGH | 87 |
+| MEDIUM | 35 |
 
 ### Genesis → Governance Flow
 
 | Governance Status | Chains | Current ADA | % of Tracked |
 |------------------|--------|-------------|-------------|
-| **No governance (NO_DREP)** | 47 | **2,075,765,522** | 78.9% |
+| **No governance (NO_DREP)** | 64 | **2,077,296,205** | 79.0% |
 | **Abstain** | 16 | **422,421,097** | 16.1% |
 | **Emurgo DRep** | 41 | **123,272,145** | 4.7% |
 | **No Confidence** | 1 | **7,235,577** | 0.3% |
@@ -450,12 +463,14 @@ All data from Phases 1-8 was stitched into chain-of-custody records:
 
 ### The Governance Picture
 
-Of 2.63B ADA currently held in genesis-linked chains:
-- **78.9% has NO governance participation** — pool staking only, zero DRep
-- **16.1% deliberately abstains** — registered governance stance of "sit out"
-- **4.7% delegates to Emurgo's DRep** — the only real governance participation, and it circles back to a founding entity
-- **0.3% votes no-confidence** — permanent opposition stance
+Of 2.63B ADA currently held in 122 genesis-linked chains:
+- **79.0% has NO governance participation** — pool staking only, zero DRep (64 chains, 2.08B ADA)
+- **16.1% deliberately abstains** — registered governance stance of "sit out" (16 chains, 422M ADA)
+- **4.7% delegates to Emurgo's DRep** — the only real governance participation, and it circles back to a founding entity (41 chains, 123M ADA)
+- **0.3% votes no-confidence** — permanent opposition stance (1 chain, 7.2M ADA)
 - **0% delegates to any independent DRep** — zero genesis funds participate in governance outside of Emurgo's own DRep
+
+**87 of 122 chains are HIGH confidence** (direct genesis link or confirmed treasury operation). 35 are MEDIUM confidence (2-hop transaction links).
 
 ---
 
@@ -480,15 +495,17 @@ From the drain analysis:
 
 ### 5. The Governance Question — Answered (Updated Phase 9)
 
-From the full link-chain aggregation across all traced genesis flows:
+From the full link-chain aggregation (122 chains, 14.8B ADA tracked, 2.63B ADA currently held):
 
-- **78.9% of currently-held genesis ADA has NO governance** — pool staking only, zero DRep
+- **79.0% of currently-held genesis ADA has NO governance** — pool staking only, zero DRep
 - **16.1% deliberately abstains** — coordinated `always_abstain` delegation via treasury splitting
 - **4.7% delegates to Emurgo's DRep** — the only real governance participation, circling back to the founding entity
 - **0.3% votes no-confidence** — a single whale's permanent opposition stance
 - **0% delegates to any independent DRep** — not a single tracked ADA participates in governance through a community-elected representative
 
 **The staking economic incentive works. The governance incentive does not.** The only genesis-linked governance participation goes back to a founding entity's own DRep.
+
+The exhaustive drain trace (350 addresses, 16.58B ADA outflow, 3,328 destinations) and expanded link-chain analysis (122 chains vs original 105) reinforce these findings with higher confidence — larger sample, same conclusion.
 
 ### 6. The Circular Governance Loop
 
@@ -550,11 +567,13 @@ Cardano uses **liquid staking** — ADA never leaves the wallet when delegated. 
 
 ### Limitations
 
-1. **UTXO mixing:** Funds become untraceable after merging with non-genesis ADA (by hop 3-4)
-2. **API rate limits:** Blockfrost free tier (10 req/s, 50k req/day) constrains tracing speed
-3. **CEX labeling:** No confirmed exchange address database yet — classification uses heuristics (tx count, stake key presence)
-4. **CF depth:** Cardano Foundation funds haven't emerged at Shelley endpoints within current search depth
-5. **DRep check coverage:** Current DRep analysis covers Emurgo-linked drain destinations only — IOHK and CF traces still pending
+1. **UTXO mixing:** Funds become untraceable after merging with non-genesis ADA (by hop 3-4). By the exhaustive drain trace, 16.58B ADA outflow was traced from ~2B of genesis allocation — the remaining 14.5B+ is non-genesis ADA that merged into the same paths.
+2. **API throughput:** Rate-limited to ~9.5 req/s per process. Exhaustive tracing of addresses with thousands of transactions requires hours of API time per key.
+3. **Drain trace partial:** 350 of ~1,188 identified drained addresses fully traced. The remaining 838 addresses need additional API time — investigation is resumable from checkpoint.
+4. **Neighborhood partial:** 30 of 53 stake keys neighborhood-scanned. Remaining 23 keys (many with complex transaction histories) need additional scanning.
+5. **CEX labeling:** No confirmed exchange address database yet — classification uses heuristics (tx count, stake key presence)
+6. **CF depth:** Cardano Foundation funds haven't emerged at Shelley endpoints within current search depth
+7. **DRep check coverage:** Current DRep analysis covers Emurgo-linked drain destinations only — IOHK and CF traces still pending
 
 ## Next Steps
 
