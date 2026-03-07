@@ -1,0 +1,387 @@
+{
+  "stakeKeys": [
+    {
+      "stakeAddress": "stake1u833p40y8cm07ra9wgrqgp70z6khc5pttrena97c6en6p8c7pzxda",
+      "sourceEntity": "IOHK / Input Output",
+      "active": false,
+      "poolId": null,
+      "drepId": null,
+      "controlledAda": 44530379,
+      "totalRewards": 0,
+      "withdrawnRewards": 0,
+      "addressCount": 500,
+      "totalBalance": 7198195,
+      "governanceActive": false,
+      "topAddresses": [
+        {
+          "address": "addr1qxdfqunt6cjd03485aqpma6e065kvf2vuxznfu6ex0kjnclrzr27g03klu862usxqsru794d03gzkk8n86ta34n85z0s704vzm",
+          "ada": 7188195
+        },
+        {
+          "address": "addr1q8kdypqtzvwa2qwqwtlhlfnfqmmghktvqwpka66n4mgqmxhrzr27g03klu862usxqsru794d03gzkk8n86ta34n85z0sjx5wzh",
+          "ada": 10000
+        }
+      ],
+      "traceContext": {
+        "entity": "IOHK / Input Output",
+        "foundAt": "addr1qxdfqunt6cjd03485aqpma6e065kvf2vuxznfu6ex0kjnclrzr27g03klu862usxqsru794d03gzkk8n86ta34n85z0s704vzm",
+        "flowedAda": 1000000,
+        "depth": 13
+      }
+    },
+    {
+      "stakeAddress": "stake1u9kpgpksu7tzfz4s9sjaaujlrc82svf2d3rqh2rkft375mc78sd6c",
+      "sourceEntity": "Emurgo",
+      "active": true,
+      "poolId": "pool1lskcfz80qg2kr2p6776kl9emjn8ulkqsqse7um7skz4y2lwa0cu",
+      "drepId": "drep_always_abstain",
+      "controlledAda": 1380966,
+      "totalRewards": 1028504,
+      "withdrawnRewards": 994116,
+      "addressCount": 54,
+      "totalBalance": 5,
+      "governanceActive": true,
+      "topAddresses": [
+        {
+          "address": "addr1q8q4k45dc889amsr0pcswxk03ux28wtmavjvdcv9h9g8vrmvzsrdpeukyj9tqtp9mme978sw4qcj5mzxpw58vjhrafhsvzsaz3",
+          "ada": 3
+        },
+        {
+          "address": "addr1qyuqt9qarr74d4vea2ma3auj8jy2lkvncl9k83g2q0s07mrvzsrdpeukyj9tqtp9mme978sw4qcj5mzxpw58vjhrafhswg7alg",
+          "ada": 2
+        }
+      ],
+      "traceContext": {
+        "entity": "Emurgo",
+        "foundAt": "addr1qxrzeq2dzdekv7fd4xevkd4u7gvcr7kklkadfw5e9mes8atvzsrdpeukyj9tqtp9mme978sw4qcj5mzxpw58vjhrafhsm66ry3",
+        "flowedAda": 6999999,
+        "depth": 12
+      }
+    },
+    {
+      "stakeAddress": "stake1ux0zxf63y2evkeuamezmfccyqekus9fj6k78auuynll2stsktpvsz",
+      "sourceEntity": "IOHK / Input Output",
+      "active": false,
+      "poolId": null,
+      "drepId": null,
+      "controlledAda": 126820,
+      "totalRewards": 0,
+      "withdrawnRewards": 0,
+      "addressCount": 18,
+      "totalBalance": 126816,
+      "governanceActive": false,
+      "topAddresses": [
+        {
+          "address": "addr1qxu8at47ufgfmm25002n75mhxgpnewzwd6uc2cpzx9256qy7yvn4zg4jednemhj9kn3sgpndeq2n94du0mecf8l74qhq0puqqt",
+          "ada": 20325
+        },
+        {
+          "address": "addr1qye5jaadk04nh02w7smuwzfmwmkgdk2nhpa54jsnxtnx73y7yvn4zg4jednemhj9kn3sgpndeq2n94du0mecf8l74qhq8ynus2",
+          "ada": 19765
+        },
+        {
+          "address": "addr1qx4lfuqwckpanwq2agkd86634y4k3d7zasg56467ge0hhnv7yvn4zg4jednemhj9kn3sgpndeq2n94du0mecf8l74qhqfrt3u6",
+          "ada": 18256
+        },
+        {
+          "address": "addr1q87xq940mlsllm65sq6enrjhux9h75xprrcg390x3thf7au7yvn4zg4jednemhj9kn3sgpndeq2n94du0mecf8l74qhq0fzr5s",
+          "ada": 16839
+        },
+        {
+          "address": "addr1q8zng5mtx62mce9vnqf8my9g7fu7lqdpm69dhzet7zfca657yvn4zg4jednemhj9kn3sgpndeq2n94du0mecf8l74qhqm0qs22",
+          "ada": 14207
+        },
+        {
+          "address": "addr1q86j8a6rrqmhdxvd88jpnw77nsg47puw5hxlmnlmqnm30ru7yvn4zg4jednemhj9kn3sgpndeq2n94du0mecf8l74qhqy9vvjt",
+          "ada": 13044
+        },
+        {
+          "address": "addr1q8mnzu4wn9adxn6jquwja0f7d8rtj3cf8nr69s3x9s3dzkv7yvn4zg4jednemhj9kn3sgpndeq2n94du0mecf8l74qhq8yuck5",
+          "ada": 11612
+        },
+        {
+          "address": "addr1qyp20keyzemjcymazwnntxsc3s5yg6dchf2lw5lwvv3ap3y7yvn4zg4jednemhj9kn3sgpndeq2n94du0mecf8l74qhqlaqq3e",
+          "ada": 11326
+        },
+        {
+          "address": "addr1qxdsgwy3zc23z9gud9dedek36rz258pmlejctfa8d439c8u7yvn4zg4jednemhj9kn3sgpndeq2n94du0mecf8l74qhqj35gcl",
+          "ada": 1000
+        },
+        {
+          "address": "addr1qxmzq9ttgdvdexj02c7k3fd2xkdn4yp2lckdcjrks5s5wry7yvn4zg4jednemhj9kn3sgpndeq2n94du0mecf8l74qhqdls0n0",
+          "ada": 442
+        }
+      ],
+      "traceContext": {
+        "entity": "IOHK / Input Output",
+        "foundAt": "addr1qyesxmnjhpwlge5vpjux463u8qpzy5vxpjjxh9rhlxeetlu7yvn4zg4jednemhj9kn3sgpndeq2n94du0mecf8l74qhqrnx6up",
+        "flowedAda": 23812,
+        "depth": 13
+      }
+    },
+    {
+      "stakeAddress": "stake1uywjddmyjqkhgfy78jlmvw4jfhkdduv2292xzcfuyy6rm2qkfe4vk",
+      "sourceEntity": "IOHK / Input Output",
+      "active": true,
+      "poolId": "pool13annzt9hjfc822f0ejvxjf7fsmxd6cc28whpk5kagec6ggfmm7u",
+      "drepId": null,
+      "controlledAda": 6641,
+      "totalRewards": 6641,
+      "withdrawnRewards": 0,
+      "addressCount": 1,
+      "totalBalance": 0,
+      "governanceActive": true,
+      "topAddresses": [],
+      "traceContext": {
+        "entity": "IOHK / Input Output",
+        "foundAt": "addr1qy9xs7rrzrnv4m28ef8v5lh9u225mdxfzernq8y8p7je6vgay6mkfypdwsjfu09lkcatyn0v6mcc5525v9sncgf58k5q4783j3",
+        "flowedAda": 158328,
+        "depth": 15
+      }
+    },
+    {
+      "stakeAddress": "stake1u80p0z4rt5665qy3yap4n0e3fhsmu3f8m0zpw90mpha7fxsfyeqlc",
+      "sourceEntity": "IOHK / Input Output",
+      "active": true,
+      "poolId": "pool1wwzctexlp70mj00vv65mlhwhwresn58s9x7jl4tswvkg77eu7n7",
+      "drepId": null,
+      "controlledAda": 77,
+      "totalRewards": 817103,
+      "withdrawnRewards": 817097,
+      "addressCount": 24,
+      "totalBalance": 70,
+      "governanceActive": true,
+      "topAddresses": [
+        {
+          "address": "addr1qxdmhwr4zj7tmlx8wcr8a520jzytxjyjxrq39ewtmctauc77z792xhf44gqfzf6rtxlnzn0phezj0k7yzu2lkr0mujdqr79qtz",
+          "ada": 70
+        }
+      ],
+      "traceContext": {
+        "entity": "IOHK / Input Output",
+        "foundAt": "addr1qy6ukyymaf7xat4ykl3z8n2gqw9pgzj6nqswn2dmr3f0q2w7z792xhf44gqfzf6rtxlnzn0phezj0k7yzu2lkr0mujdqldv3rj",
+        "flowedAda": 20453411,
+        "depth": 12
+      }
+    },
+    {
+      "stakeAddress": "stake1u8cdq2nrcwa5wd0urkrs7yhrw4grk053k8c43z7q0uak2sqhaqr8q",
+      "sourceEntity": "Emurgo",
+      "active": true,
+      "poolId": "pool14fjmlppz76667ws3jl5luejf2wgztuhpsftulvh3ucc65anqgve",
+      "drepId": null,
+      "controlledAda": 11,
+      "totalRewards": 201,
+      "withdrawnRewards": 191,
+      "addressCount": 10,
+      "totalBalance": 1,
+      "governanceActive": true,
+      "topAddresses": [
+        {
+          "address": "addr1q833ydnzk8xykdgxvjes2w3cdmr3wus95edxtdmph42rgrhs6q4x8samgu6lc8v8pufwxa2s8vlfrv03tz9uqlemv4qq3c92w3",
+          "ada": 1
+        }
+      ],
+      "traceContext": {
+        "entity": "Emurgo",
+        "foundAt": "addr1q8zucla0ljs8sz55tn7x903t3yc832cgat3apzrm25u66y8s6q4x8samgu6lc8v8pufwxa2s8vlfrv03tz9uqlemv4qqy55jma",
+        "flowedAda": 4261,
+        "depth": 14
+      }
+    },
+    {
+      "stakeAddress": "stake1uxtm3wxlkfymyed99j87rrgdf00awurpj3vnx644s5f0aks3ytl4a",
+      "sourceEntity": "IOHK / Input Output",
+      "active": true,
+      "poolId": "pool18v9r8afalh50l4lstct2awdc3zspnvurcs7t45nv29uc2mnxc6c",
+      "drepId": null,
+      "controlledAda": 11,
+      "totalRewards": 18330,
+      "withdrawnRewards": 18329,
+      "addressCount": 178,
+      "totalBalance": 0,
+      "governanceActive": true,
+      "topAddresses": [],
+      "traceContext": {
+        "entity": "IOHK / Input Output",
+        "foundAt": "addr1q9e4xh780jrfzwdun3d49cmscuw82ww297qad3zljmtj6ryhhzudlvjfkfj62ty0uxxs6j7l6acxr9zexd4ttpgjlmdquztk77",
+        "flowedAda": 284519,
+        "depth": 13
+      }
+    },
+    {
+      "stakeAddress": "stake1u9356k64ytz4l34uv90vhexq4g9n4xxwsy4sm5ag8jx2tcsa7jrn3",
+      "sourceEntity": "IOHK / Input Output",
+      "active": true,
+      "poolId": "pool1d76p7zfn2ydq577z4wsvmnl2lx4cxa3s5vplfuhvr8qfw8hd05j",
+      "drepId": null,
+      "controlledAda": 10,
+      "totalRewards": 349744,
+      "withdrawnRewards": 349741,
+      "addressCount": 25,
+      "totalBalance": 7,
+      "governanceActive": true,
+      "topAddresses": [
+        {
+          "address": "addr1qxxanenxk2cspa8a6vxtmc2w5usj5en2uulxd00tqmz9t3trf4d42gk9tlrtcc27e0jvp2st82vvaqftphf6s0yv5h3q22ep4x",
+          "ada": 6
+        },
+        {
+          "address": "addr1qxmfa05dtv3azmkl8r9jykgksvvcsfd6edtt4asceha9wrmrf4d42gk9tlrtcc27e0jvp2st82vvaqftphf6s0yv5h3q5mv6yh",
+          "ada": 1
+        }
+      ],
+      "traceContext": {
+        "entity": "IOHK / Input Output",
+        "foundAt": "addr1q98w5a2n2cjrkpfzsrureesjf3edp8ugtjve7h00zt857qtrf4d42gk9tlrtcc27e0jvp2st82vvaqftphf6s0yv5h3qxx9cep",
+        "flowedAda": 6422305,
+        "depth": 12
+      }
+    },
+    {
+      "stakeAddress": "stake1uxvtgr0f9llrdwhsvnk3hlt4jy4xevmt48yc0tcunc9n4kg8tdclh",
+      "sourceEntity": "IOHK / Input Output",
+      "active": true,
+      "poolId": "pool196kpy0628pdlm0qpedsnnnctrunyx3cvt0ugalrj4a2mxr72uk6",
+      "drepId": null,
+      "controlledAda": 9,
+      "totalRewards": 509905,
+      "withdrawnRewards": 509901,
+      "addressCount": 29,
+      "totalBalance": 5,
+      "governanceActive": true,
+      "topAddresses": [
+        {
+          "address": "addr1qxrdw0ku362fvt4hr0zt0fttmg9wdj96hv6y50y85qly2yvcksx7jtl7x6a0qe8dr07htyf2djekh2wfs7h3e8st8tvsrp79zm",
+          "ada": 3
+        },
+        {
+          "address": "addr1qxkwmwxfdzmnfaldnvz84s6354df3dvzmvmxwzne9v7dn7vcksx7jtl7x6a0qe8dr07htyf2djekh2wfs7h3e8st8tvs0r2c8w",
+          "ada": 2
+        }
+      ],
+      "traceContext": {
+        "entity": "IOHK / Input Output",
+        "foundAt": "addr1q9v34ct2eu5d5t0vv02h93xcumvxjz7estzjkaq723hh9m5cksx7jtl7x6a0qe8dr07htyf2djekh2wfs7h3e8st8tvszjwauy",
+        "flowedAda": 7999999,
+        "depth": 12
+      }
+    },
+    {
+      "stakeAddress": "stake1u8572wjm7gyefwjnwxkewns36q9vdwzpsmu5fjsak68wp8ctf2ehk",
+      "sourceEntity": "IOHK / Input Output",
+      "active": true,
+      "poolId": "pool1dkww2vlysa8lsnuf5rca979zdsyr3zvt59hu7e420yxfunkka2z",
+      "drepId": null,
+      "controlledAda": 3,
+      "totalRewards": 265080,
+      "withdrawnRewards": 265078,
+      "addressCount": 22,
+      "totalBalance": 1,
+      "governanceActive": true,
+      "topAddresses": [
+        {
+          "address": "addr1q88w5tv2lvs2f9y5ue4zlwup564l59hc3xrw7q4rdj7hd30fu5a9husfjja9xuddja8pr5q2c6uyrphegn9pmd5wuz0sv6rjxm",
+          "ada": 1
+        }
+      ],
+      "traceContext": {
+        "entity": "IOHK / Input Output",
+        "foundAt": "addr1qynm5a7aksdjc4vgrv0ca9ma0m5s9shqdyf0lpyx3g3r2dlfu5a9husfjja9xuddja8pr5q2c6uyrphegn9pmd5wuz0s6kkvqx",
+        "flowedAda": 591638,
+        "depth": 12
+      }
+    },
+    {
+      "stakeAddress": "stake1uxf53lmw7479rehspdstly4vqmgrtsuzev5nghplh748wrsz8scjy",
+      "sourceEntity": "IOHK / Input Output",
+      "active": false,
+      "poolId": null,
+      "drepId": null,
+      "controlledAda": 2,
+      "totalRewards": 0,
+      "withdrawnRewards": 0,
+      "addressCount": 500,
+      "totalBalance": 2,
+      "governanceActive": false,
+      "topAddresses": [
+        {
+          "address": "addr1q8g77agasft90nnrln487665tf4nz9tt0z9df0l5z637yavnfrlkaatu28n0qzmqh7f2cpksxhpc9jefx3wrl0a2wu8qu5g9nq",
+          "ada": 2
+        }
+      ],
+      "traceContext": {
+        "entity": "IOHK / Input Output",
+        "foundAt": "addr1q8g77agasft90nnrln487665tf4nz9tt0z9df0l5z637yavnfrlkaatu28n0qzmqh7f2cpksxhpc9jefx3wrl0a2wu8qu5g9nq",
+        "flowedAda": 2877108,
+        "depth": 13
+      }
+    },
+    {
+      "stakeAddress": "stake1u8cqxhnvfk4k9yq9hs5fjmm60jmsjn2t9zt5gwh622m8waq55n977",
+      "sourceEntity": "Emurgo",
+      "active": false,
+      "poolId": null,
+      "drepId": null,
+      "controlledAda": 0,
+      "totalRewards": 0,
+      "withdrawnRewards": 0,
+      "addressCount": 1,
+      "totalBalance": 0,
+      "governanceActive": false,
+      "topAddresses": [],
+      "traceContext": {
+        "entity": "Emurgo",
+        "foundAt": "addr1q92etwu4hx97cqf2leyhn5rgse9dg285taadyg7wfalnjc0sqd0xcndtv2gqt0pgn9hh5l9hp9x5k2yhgsa0554kwa6qul22xg",
+        "flowedAda": 15608,
+        "depth": 14
+      }
+    },
+    {
+      "stakeAddress": "stake1u88mps3xyemp78g6gaf4xujw0t9dg85n7t6yv7t2uwtnvjqgxcdva",
+      "sourceEntity": "Emurgo",
+      "active": false,
+      "poolId": null,
+      "drepId": null,
+      "controlledAda": 0,
+      "totalRewards": 0,
+      "withdrawnRewards": 0,
+      "addressCount": 2,
+      "totalBalance": 0,
+      "governanceActive": false,
+      "topAddresses": [],
+      "traceContext": {
+        "entity": "Emurgo",
+        "foundAt": "addr1qxe6esu9ufvy5ce4jxrmj4ymcjv8vn5nhn9hjjjyxghvpvw0krpzvfnkruw3536n2deyu7k26s0f8uh5geuk4cuhxeyqz05wx3",
+        "flowedAda": 38000,
+        "depth": 13
+      }
+    },
+    {
+      "stakeAddress": "stake1u8dmqlfv95cyr9u7gskm03cw4s7vm06jq0kctse4klk4fycpm5q4j",
+      "sourceEntity": "IOHK / Input Output",
+      "active": true,
+      "poolId": "pool1mxqjlrfskhd5kql9kak06fpdh8xjwc76gec76p3taqy2qmfzs5z",
+      "drepId": null,
+      "controlledAda": 0,
+      "totalRewards": 2262140,
+      "withdrawnRewards": 2262140,
+      "addressCount": 1,
+      "totalBalance": 0,
+      "governanceActive": false,
+      "topAddresses": [],
+      "traceContext": {
+        "entity": "IOHK / Input Output",
+        "foundAt": "addr1q9hx7vn8k7gz5txtcszvz7wly8zajpmm79mgkevstz0ey37mkp7jctfsgxteu3pdklrsatpuekl4yqldshpntdld2jfsf9vpjd",
+        "flowedAda": 1164532659,
+        "depth": 10
+      }
+    }
+  ],
+  "summary": {
+    "totalControlled": 46044929,
+    "totalGov": 1387728,
+    "totalNoGov": 44657201,
+    "keyCount": 14
+  }
+}

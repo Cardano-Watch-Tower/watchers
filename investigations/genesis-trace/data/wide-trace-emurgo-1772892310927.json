@@ -1,0 +1,42 @@
+{
+  "entityName": "Emurgo",
+  "genesisAda": 2074165644,
+  "visited": 500,
+  "apiCalls": 2330,
+  "shelleyHits": [
+    {
+      "depth": 20,
+      "address": "addr1q8l8spjpt3etsu0nzgwrh7jvy9wh7jrsgh7ua3pefhvlxl7r7gmkthmuxdu9cpgcvjerc4d5a5tpe9u3htxa4yg4lhaqmtjsxx",
+      "type": "SHELLEY",
+      "currentBalance": 0,
+      "stakeAddress": "stake1u8plydm9ma7rx7zuq5vxfv3u2k6w69suj7gm4nw6jy2lm7sncarjr",
+      "flowedAda": 9999256,
+      "governance": {
+        "pool": null,
+        "drep": null,
+        "active": false,
+        "controlledAda": 0
+      }
+    }
+  ],
+  "byronTerminals": [],
+  "stakeKeyClusters": [
+    {
+      "stakeAddress": "stake1u8plydm9ma7rx7zuq5vxfv3u2k6w69suj7gm4nw6jy2lm7sncarjr",
+      "addressCount": 1,
+      "totalFlowedAda": 9999256,
+      "totalCurrentAda": 0,
+      "governance": {
+        "pool": null,
+        "drep": null,
+        "active": false,
+        "controlledAda": 0
+      }
+    }
+  ],
+  "summary": {
+    "totalAdaAtShelley": 0,
+    "totalAdaAtByronTerminals": 0,
+    "coveragePercent": "0.0000"
+  }
+}

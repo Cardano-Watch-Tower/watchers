@@ -1,0 +1,275 @@
+{
+  "meta": {
+    "generatedAt": "2026-03-07T13:35:18.502Z",
+    "tool": "Cardano Genesis Fund Tracer",
+    "version": "0.1.0",
+    "genesisStats": {
+      "totalAtLaunch": 31112484646,
+      "publicSale": 25927070538,
+      "devPool": 5185414108,
+      "maxSupply": 45000000000,
+      "tranches": {
+        "T1": {
+          "btc": 9080.1,
+          "ada": 1255160024,
+          "invoices": 277
+        },
+        "T2": {
+          "btc": 40202.2,
+          "ada": 7729842852,
+          "invoices": 4100
+        },
+        "T3": {
+          "btc": 24278.9,
+          "ada": 5923771020,
+          "invoices": 2903
+        },
+        "T3_5": {
+          "btc": 2462.6,
+          "ada": 721948412,
+          "invoices": 301
+        },
+        "T4": {
+          "btc": 32820.7,
+          "ada": 10296348230,
+          "invoices": 6821
+        }
+      },
+      "totalVouchers": 14402,
+      "btcExodusWallets": {
+        "T1": "3LZU6nDHGFfNrcs15qZcPA7xDDMHBbDN28",
+        "T2": "37UmWw8rQpmomsHmq62AiE6EXgbi59UFAe",
+        "T3a": "37jFLuEE5E7Cg3H72GQyDbkBGPgfeT4jYW",
+        "T3b": "38fsdtpzNv1nsoc4ho9wDBBdtqHCy72wKR",
+        "T4": "3KJUJUQS3XwYiiZ9uzVdqJwbnnUjPYLcmy"
+      }
+    }
+  },
+  "genesis": {
+    "avvmEntries": 14505,
+    "avvmTotalAda": 31112484745,
+    "topAvvmEntries": [
+      {
+        "avvmKey": "URVk8FxX6Ik9z-Cub09oOxMkp6FwNq27kJUXbjJnfsQ=",
+        "lovelace": "2463071701000000",
+        "ada": 2463071701
+      },
+      {
+        "avvmKey": "ocEVzr7ctJ3NyCWj_356QsTyINKoJlwCCAgKFGPjvqg=",
+        "lovelace": "2074165643000000",
+        "ada": 2074165643
+      },
+      {
+        "avvmKey": "Mutep7fz4IHpNS1eHXnQRPJOmciz9ql1QJF9IAt4XBY=",
+        "lovelace": "781381495000000",
+        "ada": 781381495
+      },
+      {
+        "avvmKey": "5Y1_PK90x1jCNzzQwthIt0RGT7E3PAPwDI-tbHN39l8=",
+        "lovelace": "648176763000000",
+        "ada": 648176763
+      },
+      {
+        "avvmKey": "2CybYaKX5dVnJcfCSkA617J_BjusgnRuscjOcTqwcvA=",
+        "lovelace": "300149999000000",
+        "ada": 300149999
+      }
+    ]
+  },
+  "entities": {
+    "emurgo": {
+      "name": "Emurgo",
+      "genesisAllocation": 2074165643.2,
+      "currentBalance": 0,
+      "totalTransactions": 1,
+      "topDestinations": [
+        {
+          "address": "DdzFFzCqrhsi4ogKmCFQwBUWqtS18UBL3SrdDoNuSxHSiqKAgbn2zCfDsdv2hbTDN8mgwT3C84uQ3EKazbUtPMPFKDzNxrLKBeWqKqvy",
+          "ada": 2074165643,
+          "txCount": 1,
+          "governance": {
+            "active": false,
+            "noStakeKey": true
+          },
+          "cexAnalysis": {
+            "address": "DdzFFzCqrhsi4ogKmCFQwBUWqtS18UBL3SrdDoNuSxHSiqKAgbn2zCfDsdv2hbTDN8mgwT3C84uQ3EKazbUtPMPFKDzNxrLKBeWqKqvy",
+            "txCount": 0,
+            "hasStakeKey": false,
+            "stakeAddress": null,
+            "isScript": false,
+            "likelyCex": false,
+            "confidence": 30
+          }
+        }
+      ],
+      "governance": {
+        "governanceActiveDestinations": 0,
+        "governanceInactiveDestinations": 1,
+        "adaInGovernance": 0,
+        "adaNotInGovernance": 2074165643,
+        "governanceRate": "0.0%"
+      },
+      "cexClassification": {
+        "toCex": 0,
+        "toSelfCustody": 0,
+        "unknown": 2074165643
+      }
+    },
+    "cardanoFoundation": {
+      "name": "Cardano Foundation",
+      "genesisAllocation": 622249692.9599999,
+      "currentBalance": 0,
+      "totalTransactions": 1,
+      "topDestinations": [
+        {
+          "address": "DdzFFzCqrht1RAzCsYyTHZJymt4qj65bV41TyufbmpTr9nGh2VS3zY25tJHu718QACd7xpKENCGfK8wnQhZXNJmnmCvxPHJfuwk3BzrP",
+          "ada": 648176763,
+          "txCount": 1,
+          "governance": {
+            "active": false,
+            "noStakeKey": true
+          },
+          "cexAnalysis": {
+            "address": "DdzFFzCqrht1RAzCsYyTHZJymt4qj65bV41TyufbmpTr9nGh2VS3zY25tJHu718QACd7xpKENCGfK8wnQhZXNJmnmCvxPHJfuwk3BzrP",
+            "txCount": 0,
+            "hasStakeKey": false,
+            "stakeAddress": null,
+            "isScript": false,
+            "likelyCex": false,
+            "confidence": 30
+          }
+        }
+      ],
+      "governance": {
+        "governanceActiveDestinations": 0,
+        "governanceInactiveDestinations": 1,
+        "adaInGovernance": 0,
+        "adaNotInGovernance": 648176763,
+        "governanceRate": "0.0%"
+      },
+      "cexClassification": {
+        "toCex": 0,
+        "toSelfCustody": 0,
+        "unknown": 648176763
+      }
+    },
+    "iohk": {
+      "name": "IOHK / Input Output",
+      "genesisAllocation": 2488998771.8399997,
+      "currentBalance": 0,
+      "totalTransactions": 4,
+      "topDestinations": [
+        {
+          "address": "DdzFFzCqrht3wEZNURs9U5Qp7HnLoi9Cpao2YzThm88CqvLuP9uTmGzpwQc2e9VSUNGPhR7pAz3g9TtnBx3YoiiJ712Va3dBZNTXkTYT",
+          "ada": 2463070700,
+          "txCount": 1,
+          "governance": {
+            "active": false,
+            "noStakeKey": true
+          },
+          "cexAnalysis": {
+            "address": "DdzFFzCqrht3wEZNURs9U5Qp7HnLoi9Cpao2YzThm88CqvLuP9uTmGzpwQc2e9VSUNGPhR7pAz3g9TtnBx3YoiiJ712Va3dBZNTXkTYT",
+            "txCount": 0,
+            "hasStakeKey": false,
+            "stakeAddress": null,
+            "isScript": false,
+            "likelyCex": false,
+            "confidence": 30
+          }
+        },
+        {
+          "address": "Ae2tdPwUPEZ4z4gaZK3iN4yh3vKGHXryrMGoX89BmpXV1o5JAyia361MaRW",
+          "ada": 12033,
+          "txCount": 1,
+          "governance": {
+            "active": false,
+            "noStakeKey": true
+          },
+          "cexAnalysis": {
+            "address": "Ae2tdPwUPEZ4z4gaZK3iN4yh3vKGHXryrMGoX89BmpXV1o5JAyia361MaRW",
+            "txCount": 0,
+            "hasStakeKey": false,
+            "stakeAddress": null,
+            "isScript": false,
+            "likelyCex": false,
+            "confidence": 30
+          }
+        },
+        {
+          "address": "DdzFFzCqrhstG7iM8Wtegm4JRJLp6B8Gtoyy9UyfeeiaHagaaqJQ3EBgjWAyqLtigUDvPWSR3LJhB7dNUPjYnFfxx6e6zLRBJwzTgPAi",
+          "ada": 1000,
+          "txCount": 1,
+          "governance": {
+            "active": false,
+            "noStakeKey": true
+          },
+          "cexAnalysis": {
+            "address": "DdzFFzCqrhstG7iM8Wtegm4JRJLp6B8Gtoyy9UyfeeiaHagaaqJQ3EBgjWAyqLtigUDvPWSR3LJhB7dNUPjYnFfxx6e6zLRBJwzTgPAi",
+            "txCount": 0,
+            "hasStakeKey": false,
+            "stakeAddress": null,
+            "isScript": false,
+            "likelyCex": false,
+            "confidence": 30
+          }
+        },
+        {
+          "address": "DdzFFzCqrhsgW4SZyQ4t8uLT3wHrjqo8DDhNN2ETmkNtuDtRmD1N3QLmKzR5TZJo198Jj16CkYKLZfEjJ7ZfEvvCtVWmNVvMtqfbMQyq",
+          "ada": 39,
+          "txCount": 1,
+          "governance": {
+            "active": false,
+            "noStakeKey": true
+          },
+          "cexAnalysis": {
+            "address": "DdzFFzCqrhsgW4SZyQ4t8uLT3wHrjqo8DDhNN2ETmkNtuDtRmD1N3QLmKzR5TZJo198Jj16CkYKLZfEjJ7ZfEvvCtVWmNVvMtqfbMQyq",
+            "txCount": 0,
+            "hasStakeKey": false,
+            "stakeAddress": null,
+            "isScript": false,
+            "likelyCex": false,
+            "confidence": 30
+          }
+        },
+        {
+          "address": "DdzFFzCqrhseYDFGawjohK58pGoJG9tqJbRty5Te7A21U6XYSRrqFLSXzN4zaZLYxH1RFDUkjeoP9fLcXJHW7oGmZjVtJJBU8UDfG5j5",
+          "ada": 10,
+          "txCount": 1,
+          "governance": {
+            "active": false,
+            "noStakeKey": true
+          },
+          "cexAnalysis": {
+            "address": "DdzFFzCqrhseYDFGawjohK58pGoJG9tqJbRty5Te7A21U6XYSRrqFLSXzN4zaZLYxH1RFDUkjeoP9fLcXJHW7oGmZjVtJJBU8UDfG5j5",
+            "txCount": 0,
+            "hasStakeKey": false,
+            "stakeAddress": null,
+            "isScript": false,
+            "likelyCex": false,
+            "confidence": 30
+          }
+        }
+      ],
+      "governance": {
+        "governanceActiveDestinations": 0,
+        "governanceInactiveDestinations": 5,
+        "adaInGovernance": 0,
+        "adaNotInGovernance": 2463083782,
+        "governanceRate": "0.0%"
+      },
+      "cexClassification": {
+        "toCex": 0,
+        "toSelfCustody": 0,
+        "unknown": 2463083782
+      }
+    }
+  },
+  "summary": {
+    "totalGenesisDevPool": 5185414108,
+    "tracedEntities": 3,
+    "totalCurrentBalance": 0,
+    "totalMovedToExchanges": 0,
+    "totalInGovernance": 0,
+    "totalNotInGovernance": 5185426188
+  }
+}

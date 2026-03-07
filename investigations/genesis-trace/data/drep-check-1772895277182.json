@@ -1,0 +1,1627 @@
+{
+  "stakeKeys": [
+    {
+      "stakeKey": "stake1u9phffdh79gc8lrlk3vmxjgtedrhcfnrhc8u6wpz3zrlkxqvehgsq",
+      "totalAdaFlowed": 2697696225,
+      "addresses": [
+        "addr1q8hfy8jxxtevnk3xs6drkfvkfy9sxv5myz46gaqtsceev92rwjjm0u23s078ldzekdyshj680snx80s0e5uz9zy8lvvqaw7sys",
+        "addr1q8usztr3pdmrqkgdg79y6g903vfnw5k8e2yeea30xz8tykjrwjjm0u23s078ldzekdyshj680snx80s0e5uz9zy8lvvqycvtun",
+        "addr1q9we2qm0a3e62kc5sxpuqekm250padczu6reykwml4vn8m6rwjjm0u23s078ldzekdyshj680snx80s0e5uz9zy8lvvqud8tkn",
+        "addr1q93pp29qzs3x2k6u5ls3l8s0and8tsmnxc5ceqwenln8c86rwjjm0u23s078ldzekdyshj680snx80s0e5uz9zy8lvvq40cjua",
+        "addr1q939kcuzdhd3lpd47atav8nvvejfe00duauawppyw9fdw76rwjjm0u23s078ldzekdyshj680snx80s0e5uz9zy8lvvq53jcxw",
+        "addr1qxxzsjda52lz5zpfxmdt06y9v47uls8eyleuhjc68q7uds6rwjjm0u23s078ldzekdyshj680snx80s0e5uz9zy8lvvqu2359d",
+        "addr1qx5s49kywt3f7cv0cv9n0zjjmwvarc0nyvapjkl4f78v8d6rwjjm0u23s078ldzekdyshj680snx80s0e5uz9zy8lvvqekman0",
+        "addr1q8zx0znkj5qn5scerp3t6g7m2dngynmvxathjhhgw2qu6mzrwjjm0u23s078ldzekdyshj680snx80s0e5uz9zy8lvvqex5w4x",
+        "addr1qyvavx0zkk6yhnc4lvpk6jj5q7uq4u32ph8stekyfdkpv5zrwjjm0u23s078ldzekdyshj680snx80s0e5uz9zy8lvvqzrry72",
+        "addr1q924e9v02aegk6uypm9mxmhq97qy95peh4jqkkcx08dg0fzrwjjm0u23s078ldzekdyshj680snx80s0e5uz9zy8lvvqelmaxx",
+        "addr1q9h0qvsz09aj0vrwca968te3hpxuhgr8n0d3lf44ts6lepjrwjjm0u23s078ldzekdyshj680snx80s0e5uz9zy8lvvqwgplvy",
+        "addr1qxhsa6v4defzd23d2tryd6kvx052mrade2tut98twh7r8tzrwjjm0u23s078ldzekdyshj680snx80s0e5uz9zy8lvvqsw732w",
+        "addr1qyvvl9qetsvdvl7lykr6l9nr2yqpnatkr807utdd9nhd74jrwjjm0u23s078ldzekdyshj680snx80s0e5uz9zy8lvvq4l4e73",
+        "addr1q9yr9flqee4tqeuyd9njq7qghpj0zm9kjv770uk7j980dl6rwjjm0u23s078ldzekdyshj680snx80s0e5uz9zy8lvvq0m9uz9",
+        "addr1q8ntjrvwktv9xue030zgmp8l9r0x8medk0fa0pvxmg7rpl6rwjjm0u23s078ldzekdyshj680snx80s0e5uz9zy8lvvqndzw3l",
+        "addr1q98qrq8tjew34t29gfqh4f9zjnnn6ehaqesnqm8myeg5ek6rwjjm0u23s078ldzekdyshj680snx80s0e5uz9zy8lvvq8q5q02",
+        "addr1q87v3swwwh3qstc29t325nshndy0ctjhjm6prn2cvf72rcjrwjjm0u23s078ldzekdyshj680snx80s0e5uz9zy8lvvq3nyq8f",
+        "addr1q9tkk4wyrxlj8k6smlgr6g0ecjhepqza5rhnsk38egylkrzrwjjm0u23s078ldzekdyshj680snx80s0e5uz9zy8lvvq8q7exl",
+        "addr1q9zgu8pj28p5jwkmgnt37jds8y8xxexpdhtj2t7fh6cun82rwjjm0u23s078ldzekdyshj680snx80s0e5uz9zy8lvvqpl93g8",
+        "addr1q8dtvf6mmkwu6clh5p9wamwu4s4uk5e5ljgsg4tsdl7lj52rwjjm0u23s078ldzekdyshj680snx80s0e5uz9zy8lvvq025gx6",
+        "addr1qx5w4rzkxvfmem5x7trvmths5eyh0kpphsu0gveae7g8ndzrwjjm0u23s078ldzekdyshj680snx80s0e5uz9zy8lvvqlu4jcy",
+        "addr1qxxkwwhp3whrwxgwsr28hrjkj7f4jzs5nna03ehqym4wq52rwjjm0u23s078ldzekdyshj680snx80s0e5uz9zy8lvvqg4vdvu",
+        "addr1qyx8s3sujghfwu83ru64vuwcakdrtwlh5g90lzzpjqk57f6rwjjm0u23s078ldzekdyshj680snx80s0e5uz9zy8lvvqcpztj3"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool1lq7t0qg273vp8t2wzmeyj7sdq2vhu2v87jjplgurpfxcs9afnr3",
+      "drep": "drep_always_no_confidence",
+      "controlledAda": 7235577,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1u89hxtuxvfdqda90w2aw2mluxcsgyctfe2lz52n986lrc2cumssr9",
+      "totalAdaFlowed": 1042015808,
+      "addresses": [
+        "addr1q8xauhd44lqchh6pmu7p5vdvnt7fjpqrt04gpfm2lyzphgxtwvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4sl5037j",
+        "addr1qx8px3s37khhpd879ukpxu58py488q5nt8wxs8g9xtp6kp7twvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4sk7llpn",
+        "addr1qyx59fu5sdjpg8ky97rrfzpkmfz4qduzu720k3uzsgy0mqwtwvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4s3l8gj2",
+        "addr1q8xdwn90ppqs2x7vsspn9rmkrkez2yuwq23pq92nl00prewtwvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4sls9zn0",
+        "addr1qxvw3v7rpjkxvuqxjljjr9ezuj4eecpdrynghzl54dhrmw7twvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4sqy654y",
+        "addr1qxvw3v7rpjkxvuqxjljjr9ezuj4eecpdrynghzl54dhrmw7twvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4sqy654y",
+        "addr1qxz67r6x6n03h4y4gh3fcy5s7v85p2hh5m3q8s8h04zycnwtwvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4sped2ve",
+        "addr1q9r6pchlacdmkwxjkljt8d6s8avg43lmu0rq7dz4y7und67twvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4sgqtedg",
+        "addr1qxvw3v7rpjkxvuqxjljjr9ezuj4eecpdrynghzl54dhrmw7twvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4sqy654y",
+        "addr1qy9cyunx9vgv0cllg289lypm5w9qkz4d9mgmkt6efh3048xtwvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4s5mcqf5",
+        "addr1q8tcm6vc2quxrrlq035edlsf640wkat7394seypskq056xxtwvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4sqv9ykt",
+        "addr1q9hsn6p8mz4d95mv04lspz44zgpqhduru9lem3rvd0wc44xtwvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4scneq2l",
+        "addr1qxu7m0xkmexxrdl362e4c7t4acgvwlazg4mj52856c6y35wtwvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4satd74y",
+        "addr1qyz8py8azalk6v4zwfq0m26a4mnrc8jtj5rmmqa7e3638jxtwvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4shqnv57",
+        "addr1q82kvnlakaf8jp0gx46w26nr7mwaesv2u7m38tyuk5664zxtwvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4s08ytfx",
+        "addr1q86cp8tu59d8fkpkghjhnj4kdrea8jrnxg9rphajf8ffpdxtwvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4stdvd9g",
+        "addr1qx8px3s37khhpd879ukpxu58py488q5nt8wxs8g9xtp6kp7twvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4sk7llpn",
+        "addr1q8tcm6vc2quxrrlq035edlsf640wkat7394seypskq056xxtwvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4sqv9ykt",
+        "addr1q9hsn6p8mz4d95mv04lspz44zgpqhduru9lem3rvd0wc44xtwvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4scneq2l",
+        "addr1qymg7flsvtm666u65xk4jqda6glku9u999s5sacz3k2632ktwvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4sc36k0h",
+        "addr1q99czqyu8t4j9sdyjmdepkux0fsdytzjsqflszjxhms78fktwvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4sv7ezk9",
+        "addr1q9vluscpw3l2t4ymwt237a3srly53423kw8dcx39vg3u9f7twvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4s6xm8qq",
+        "addr1qxx6829aaamqmq7kemqkryal3gvp9mdf9y9685n3n7expswtwvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4sa65027",
+        "addr1qxhjr265cqapnhm57ur8u0quydch7ephar7wmsk8q57xktktwvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4snc33ha",
+        "addr1qxvw3v7rpjkxvuqxjljjr9ezuj4eecpdrynghzl54dhrmw7twvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4sqy654y",
+        "addr1qxvw3v7rpjkxvuqxjljjr9ezuj4eecpdrynghzl54dhrmw7twvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4sqy654y",
+        "addr1qxvw3v7rpjkxvuqxjljjr9ezuj4eecpdrynghzl54dhrmw7twvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4sqy654y",
+        "addr1qxvw3v7rpjkxvuqxjljjr9ezuj4eecpdrynghzl54dhrmw7twvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4sqy654y",
+        "addr1qxvw3v7rpjkxvuqxjljjr9ezuj4eecpdrynghzl54dhrmw7twvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4sqy654y",
+        "addr1qxvw3v7rpjkxvuqxjljjr9ezuj4eecpdrynghzl54dhrmw7twvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4sqy654y",
+        "addr1qxvw3v7rpjkxvuqxjljjr9ezuj4eecpdrynghzl54dhrmw7twvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4sqy654y",
+        "addr1qxvw3v7rpjkxvuqxjljjr9ezuj4eecpdrynghzl54dhrmw7twvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4sqy654y",
+        "addr1q9m59wrjshmg0wlya3a8zmmkv8fz0gxtqaqhl02mj72scmwtwvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4ss8jzj8",
+        "addr1q99czqyu8t4j9sdyjmdepkux0fsdytzjsqflszjxhms78fktwvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4sv7ezk9",
+        "addr1qxdt2yqsx8tar8nv4cl0wtqvjeg0ukkr5t9f3gr4auclxa7twvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4s89u6pe",
+        "addr1q9f76n2u4c25vktr02wt6a6v4yx9fy6h2d44jdf62sqt6aktwvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4stfzf0y",
+        "addr1qx8px3s37khhpd879ukpxu58py488q5nt8wxs8g9xtp6kp7twvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4sk7llpn",
+        "addr1qx8px3s37khhpd879ukpxu58py488q5nt8wxs8g9xtp6kp7twvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4sk7llpn",
+        "addr1q9egp0cejk59em06zxlj28z8zxy0mf3sd37zuxs54qd3rc7twvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4svucx60",
+        "addr1qymg7flsvtm666u65xk4jqda6glku9u999s5sacz3k2632ktwvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4sc36k0h",
+        "addr1qxx6829aaamqmq7kemqkryal3gvp9mdf9y9685n3n7expswtwvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4sa65027",
+        "addr1q90dg68qfc7l5zrwdx3vdjurhrv0qdwmeuvwnguyrthw8k7twvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4s0k43ze",
+        "addr1q80fczlmgvht8l3heylut9s3xswr6530sl3wvcyvv5mhx2ktwvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4sxxzzay",
+        "addr1qxvw3v7rpjkxvuqxjljjr9ezuj4eecpdrynghzl54dhrmw7twvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4sqy654y",
+        "addr1qx2rvg0h6tzhp23sdjnw63y255mswzz67j6gj89teamxkkwtwvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4sdnvh0y",
+        "addr1qy7w47z9gv6w2nqagxk8v2gs7452sgqehjvm8nh2x0e4r77twvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4s794yvh",
+        "addr1q86cp8tu59d8fkpkghjhnj4kdrea8jrnxg9rphajf8ffpdxtwvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4stdvd9g",
+        "addr1qx8qq0ac2nc2feg8k36e6xkspxfl8kfx3h7jjyykukjke8ktwvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4sem864c",
+        "addr1qxhjr265cqapnhm57ur8u0quydch7ephar7wmsk8q57xktktwvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4snc33ha",
+        "addr1q8w5mpturu04kz2l3e4qtazx02z4v04u66h355lf0ge08tktwvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4snrpay9",
+        "addr1q866m0nv5x6enuvz5alk3839xe68pz3s2s7a2f8j5fnx55ktwvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4spkujqm",
+        "addr1q9dcc9q3vdstnldtp77cjdcnm0p6q33venwp2f5gp4cjc47twvhcvcj6qm627u46u4hlcd3qsfsknj479g4x20478s4sk7n2n3"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool1lqeg5d3jpwr3nvra568nk28sr8lttyr6cf4yyssdx6qtxea9nmr",
+      "drep": null,
+      "controlledAda": 59865,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1u8rawu2xjlp9cny3yy207k9dsmpmg374kvs08kd422mqvyqqg8wxc",
+      "totalAdaFlowed": 661374924,
+      "addresses": [
+        "addr1q9xh7wsu6jxpent73tfacrfmfy3hypp89u92ajuta5a59nk86ac5d97zt3xfzgg5lav2mpkrk3ratveq70vm254kqcgqxhr9gc",
+        "addr1q9dfyexk258r4snfz44gmyxu9mah59k5c6u8ujrqkns6j9786ac5d97zt3xfzgg5lav2mpkrk3ratveq70vm254kqcgq84fcwl",
+        "addr1q974zmh57h46gpk62u2jttdasy3f9xzgmcq8gp97k5g8jdx86ac5d97zt3xfzgg5lav2mpkrk3ratveq70vm254kqcgq79trdm",
+        "addr1qxd4yfnqpkechzyyh8k4q762k9yhz3s30jrjf7r3ueggsgx86ac5d97zt3xfzgg5lav2mpkrk3ratveq70vm254kqcgqu006k7",
+        "addr1q8vxceuwnpkxcceskx74pzwknn0ajh79n95th8dxm0z4f9k86ac5d97zt3xfzgg5lav2mpkrk3ratveq70vm254kqcgqqqdgkn",
+        "addr1q9n867w0wxp0r6tkyfumw6mc8as08yq8hryug0grcauypqk86ac5d97zt3xfzgg5lav2mpkrk3ratveq70vm254kqcgquy2uth",
+        "addr1q96pkzzp0kfd5s679nk6w9cwl6n2ehtl948xengly8sj73786ac5d97zt3xfzgg5lav2mpkrk3ratveq70vm254kqcgq999ura",
+        "addr1qyqm60a3lyn75782r72209530faz547e2at0e2gdl3aucx786ac5d97zt3xfzgg5lav2mpkrk3ratveq70vm254kqcgqmwaap8",
+        "addr1q9tf8emy0st4hd6zp8enyn0ksmmwpucmnk3jvwyzl5tajtk86ac5d97zt3xfzgg5lav2mpkrk3ratveq70vm254kqcgq6fytrz",
+        "addr1qx0xsmgulhh0kg3eesqle3agm4c7k24lg20ft5k23q96ejk86ac5d97zt3xfzgg5lav2mpkrk3ratveq70vm254kqcgqj0m5v7",
+        "addr1qyqzmyucstwjkvddxwevw9z7fljf5jv7ef3ejmm6gk0t39k86ac5d97zt3xfzgg5lav2mpkrk3ratveq70vm254kqcgqd3ay46",
+        "addr1q8ev92q9a0hlugamyqlt6za5xzu8egpfh0qm30aw9fhp3xk86ac5d97zt3xfzgg5lav2mpkrk3ratveq70vm254kqcgq03unux"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool1yzu4lp7f8ua7negffj8mmwfylx4ckhsu00a4gtf630rlcwnl7gd",
+      "drep": null,
+      "controlledAda": 52,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1u8rmlr2h99gnvdaagycv97p96mclctn2y6sknryy37m0wtspfnsht",
+      "totalAdaFlowed": 645670863,
+      "addresses": [
+        "addr1q9w9la4pxcsxfd6pjzuj578jq4wchpsh07jqam5aq954p6w8h7x4w223xcmm6sfsctuzt4h3lshx5f4pdxxgfrak7uhqu8wn9v"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": null,
+      "drep": null,
+      "controlledAda": 2,
+      "active": false
+    },
+    {
+      "stakeKey": "stake1uyutvvh8v496xkfec9ms2vgwzr3vr7v298gvd865ncrs6gq2nxz09",
+      "totalAdaFlowed": 590400589,
+      "addresses": [
+        "addr1q9ehdyc46xc8w4fffse4arfsgw6p9l0eug2clqujm8sgl9pckcewwe2t5dvnnsthq5csuy8zc8uc52wsc604f8s8p5sqx8caph",
+        "addr1q95c98yalr4vxuw6qj0yd4e9tvxjh8pmaf83gmelx0qwg03ckcewwe2t5dvnnsthq5csuy8zc8uc52wsc604f8s8p5sq8k8sh9",
+        "addr1q99vek3kehrn3gwy35szzhqgml35zzvkkqcq6xrczkuugqfckcewwe2t5dvnnsthq5csuy8zc8uc52wsc604f8s8p5sqwztrqr",
+        "addr1qy60jt9vltleaa6yn0wqfvuwtsajkxzrleg3nf650rshd2eckcewwe2t5dvnnsthq5csuy8zc8uc52wsc604f8s8p5sq6mmk95",
+        "addr1q9f4gp3ap3rxr0shkwtv9xuwjx7v7ljyrxpdxq4xpzp633pckcewwe2t5dvnnsthq5csuy8zc8uc52wsc604f8s8p5sqek8a25",
+        "addr1qxtqglfptdrw2pmdpw7rjqq6j67swqr6yhgr6ew0m398eveckcewwe2t5dvnnsthq5csuy8zc8uc52wsc604f8s8p5sq8lfhv8",
+        "addr1q9scyxk47mtr3k5askmn2mdm99vlg27ntzw7dc687s7dmfeckcewwe2t5dvnnsthq5csuy8zc8uc52wsc604f8s8p5sq869tpg"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool189j5mz6wa0gfrakwvn2tar7qt309qxrmsgde5v6qwm892n6re3v",
+      "drep": null,
+      "controlledAda": 76,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1u9xjfhrz5vmeutgxw7sh4hnsq7dashgsd7yf8455cucr4rgyjwckx",
+      "totalAdaFlowed": 488571658,
+      "addresses": [
+        "addr1qyj7z9gzphlnpvjfszad7u2673q7gkque3s395l82333alzdynwx9gehncksvaap0t08qpummpw3qmugj0tff3es82xsgp5d87",
+        "addr1qyt4pgalxsmmj5gqmj500dc4ttz6w8tq3ytz78zws5n60gjdynwx9gehncksvaap0t08qpummpw3qmugj0tff3es82xsxmuceu",
+        "addr1q9uzl9as52wjrd36682jqygqpsatnu27x7p0jczq6r3vz9jdynwx9gehncksvaap0t08qpummpw3qmugj0tff3es82xszl9gkr",
+        "addr1q9c9kt0t8xd9ye5e0rrk83djjq80v5dlkufpxdxl36jaaczdynwx9gehncksvaap0t08qpummpw3qmugj0tff3es82xsnqd3gf",
+        "addr1q9kq0skcx0vu97ja3k9taq7fnlwxrlahv35sy6zge6m0dtzdynwx9gehncksvaap0t08qpummpw3qmugj0tff3es82xs7vmvxu",
+        "addr1qyy48vdq03jtqhc6yv3ggqd6v0rajpgk0xr9uupew5p7h66dynwx9gehncksvaap0t08qpummpw3qmugj0tff3es82xssdxda7",
+        "addr1qyj7z9gzphlnpvjfszad7u2673q7gkque3s395l82333alzdynwx9gehncksvaap0t08qpummpw3qmugj0tff3es82xsgp5d87",
+        "addr1qyj7z9gzphlnpvjfszad7u2673q7gkque3s395l82333alzdynwx9gehncksvaap0t08qpummpw3qmugj0tff3es82xsgp5d87",
+        "addr1qyj7z9gzphlnpvjfszad7u2673q7gkque3s395l82333alzdynwx9gehncksvaap0t08qpummpw3qmugj0tff3es82xsgp5d87",
+        "addr1qyj7z9gzphlnpvjfszad7u2673q7gkque3s395l82333alzdynwx9gehncksvaap0t08qpummpw3qmugj0tff3es82xsgp5d87",
+        "addr1qyj7z9gzphlnpvjfszad7u2673q7gkque3s395l82333alzdynwx9gehncksvaap0t08qpummpw3qmugj0tff3es82xsgp5d87",
+        "addr1qyj7z9gzphlnpvjfszad7u2673q7gkque3s395l82333alzdynwx9gehncksvaap0t08qpummpw3qmugj0tff3es82xsgp5d87",
+        "addr1q89d0t278g5a8ce3jrafgmn5qd8w0wc9vvzy926532dl53zdynwx9gehncksvaap0t08qpummpw3qmugj0tff3es82xs62j64v",
+        "addr1qyj7z9gzphlnpvjfszad7u2673q7gkque3s395l82333alzdynwx9gehncksvaap0t08qpummpw3qmugj0tff3es82xsgp5d87"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool1m0drnjxsvnlesq0rwmur2rh6lenuql57jfzd6cf6aegj2cv7ugy",
+      "drep": "drep1ytvlwvyjmzfyn56n0zz4f6lj94wxhmsl5zky6knnzrf4jygpyahug",
+      "controlledAda": 31503831,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1uygc3p5y2sr955vj320qpyhs45k6uy30rrqpsnyh03du5fgg9neud",
+      "totalAdaFlowed": 446426722,
+      "addresses": [
+        "addr1qxa63xjtpafva6yrlrreusgumx5ucvu2yallrrre2xt009g33zrgg4qxtfge9z57qzf0ptfd4cfz7xxqrpxfwlzmegjsq99c2j",
+        "addr1q8mje4w2rrwg34z5cqqny3cf2eypta8lwu0f0wym737687g33zrgg4qxtfge9z57qzf0ptfd4cfz7xxqrpxfwlzmegjsv9n7ef",
+        "addr1qxwa0eytr8t98zp9kn7znrkrcgsnwudeg7g93dntxd6lf5q33zrgg4qxtfge9z57qzf0ptfd4cfz7xxqrpxfwlzmegjsw73muv",
+        "addr1qyssgq5md70qfk4sgp8h487pncyyz7gkac6nvczl8w7mxtg33zrgg4qxtfge9z57qzf0ptfd4cfz7xxqrpxfwlzmegjskpdl7t",
+        "addr1q9ur5pdu9ruynvrsz4prw2zkte42pgp6zmr4jwz3ccsw7hg33zrgg4qxtfge9z57qzf0ptfd4cfz7xxqrpxfwlzmegjs75va0v",
+        "addr1q8d9zg22p80nc488u0l59tlvwwhet0cdsguzqr39fcv25wq33zrgg4qxtfge9z57qzf0ptfd4cfz7xxqrpxfwlzmegjsz98lyu",
+        "addr1q9js4wzlavdwgkgjhyn8txu3y3srwlmq9v44xhvrjy352lg33zrgg4qxtfge9z57qzf0ptfd4cfz7xxqrpxfwlzmegjsfrzjvm",
+        "addr1q9mukhdd0gemmwhrp4jtvs34zvqd30dnkw37cv5a069udeg33zrgg4qxtfge9z57qzf0ptfd4cfz7xxqrpxfwlzmegjss3gpms",
+        "addr1q8kerh7q64a6daztdtkuka83jvjzkl4wwfvnp8faug2qr8q33zrgg4qxtfge9z57qzf0ptfd4cfz7xxqrpxfwlzmegjseahmsz",
+        "addr1q90d8zztjgg3yne8cxw05c3ut28t6wj62378jq7e9zxpylq33zrgg4qxtfge9z57qzf0ptfd4cfz7xxqrpxfwlzmegjsvgv3c8",
+        "addr1qxs3w0azuxkjdqwc9eqeat3z9k4f3s4f37n0vsafggtjm4q33zrgg4qxtfge9z57qzf0ptfd4cfz7xxqrpxfwlzmegjsp267dt",
+        "addr1q8rlzzp4tqqlat2u836cxytdnqrpm6lw5tgw00nwe5zhzhg33zrgg4qxtfge9z57qzf0ptfd4cfz7xxqrpxfwlzmegjsmr6jqy"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool1u32s3ry3vjhqwhcrqz7p5u35cvzrx4tvdwydgvq6qm8720qrg0s",
+      "drep": null,
+      "controlledAda": 5,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1uyl82q5mf4yutgwas4lz9txs3ruf0ztser2quhfnn75kxxqmus7k0",
+      "totalAdaFlowed": 430612641,
+      "addresses": [
+        "addr1qx6vr4swx4pldj959wceqf8prgwt4j7ex34tnsxc7n8ghm37w5pfkn2fcksampt7y2kdpz8cj7yhpjx5pewn88afvvvqjnz4n7",
+        "addr1q8zzuewpnnze9m9w988gw3pnwfxc3s0dlvt3khpdjlkgre37w5pfkn2fcksampt7y2kdpz8cj7yhpjx5pewn88afvvvq09444c",
+        "addr1q9s80jstkzk8s2rsftmfpswrtt02jy5emfvuhvu5lhxsr3p7w5pfkn2fcksampt7y2kdpz8cj7yhpjx5pewn88afvvvqljz48s",
+        "addr1q9cf9kvrzp7mg34js69h69gma83p5fjcxvqu6q4nntvcm537w5pfkn2fcksampt7y2kdpz8cj7yhpjx5pewn88afvvvqyknjnv",
+        "addr1qyqyhg4qk42ry000nf3tvltd3kqtz8z3q22ks320l7q4tte7w5pfkn2fcksampt7y2kdpz8cj7yhpjx5pewn88afvvvqrq6f3p",
+        "addr1qypmgkfd4rvyxxrvszhd4d2hsk489as0km058x2lz32j2f37w5pfkn2fcksampt7y2kdpz8cj7yhpjx5pewn88afvvvqxva95f",
+        "addr1q94m4tk58xwwal37d5d4e2nd4c988eegd2rc485qq4q93qf7w5pfkn2fcksampt7y2kdpz8cj7yhpjx5pewn88afvvvqtzs8pe",
+        "addr1qy6sqxhn5s3m8uwmcdcpea06698zy7fgnuff9daee53a9237w5pfkn2fcksampt7y2kdpz8cj7yhpjx5pewn88afvvvqq44y4n",
+        "addr1qxe2hynnc86hl6zg7wneufaravjt25s5d5k8s0cmva4dktp7w5pfkn2fcksampt7y2kdpz8cj7yhpjx5pewn88afvvvq2nlnps",
+        "addr1qxwpunq7hufezhy2jv6gdyd754vuv94a0pkur3ym83fj8wf7w5pfkn2fcksampt7y2kdpz8cj7yhpjx5pewn88afvvvqqhpxad",
+        "addr1q9sx0mm4wzdplkreytt6x5svh4jwkj3snq28q4kfee6jxpe7w5pfkn2fcksampt7y2kdpz8cj7yhpjx5pewn88afvvvqpw8qwt",
+        "addr1q8tftg0qvqyvu9ekh7qfgkegpurg6q248xf5vrnc24rd5cf7w5pfkn2fcksampt7y2kdpz8cj7yhpjx5pewn88afvvvq254p0y",
+        "addr1q8tftg0qvqyvu9ekh7qfgkegpurg6q248xf5vrnc24rd5cf7w5pfkn2fcksampt7y2kdpz8cj7yhpjx5pewn88afvvvq254p0y"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool1cjjtz6enkc76yytlf2zd86ngdu60e705vq7wq940ncu6506s6n2",
+      "drep": null,
+      "controlledAda": 18032,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1u8fglwhmjv4c9x6srs0fak59a6s46ruxkrxq879d7zxu2ysxc7uey",
+      "totalAdaFlowed": 277310747,
+      "addresses": [
+        "addr1qxtctq26xes7g3he7sypyndqmqv7jau7wqcm8lhauc59h3xj37a0hyets2d4q8q7nmdgtm4pt58cdvxvq0u2muydc5fqzaxtvl",
+        "addr1q8xnzylxvracr53fjfggfgwfcwxxdu0s6stefl5q7dn5quwj37a0hyets2d4q8q7nmdgtm4pt58cdvxvq0u2muydc5fqu80ydj",
+        "addr1qyeq6n3lujh4nk45jqsz8e9splncj9yng6lh2h4mztewhexj37a0hyets2d4q8q7nmdgtm4pt58cdvxvq0u2muydc5fqft0aq5",
+        "addr1q9aarj0kwh6aexrxy5qrjxx7jlkpynd8rdlf5a8q3m2daexj37a0hyets2d4q8q7nmdgtm4pt58cdvxvq0u2muydc5fq443wcv",
+        "addr1qxh6nfr0y2h7scycj3hr4ecahq6z0tw2ul8294y9xfcdqnkj37a0hyets2d4q8q7nmdgtm4pt58cdvxvq0u2muydc5fq3cacas",
+        "addr1q96mg6z5x4f35fyp4r3wjwz0yuqlcf8rmrrd9xtwa8vuk9xj37a0hyets2d4q8q7nmdgtm4pt58cdvxvq0u2muydc5fquldr04"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": null,
+      "drep": null,
+      "controlledAda": 0,
+      "active": false
+    },
+    {
+      "stakeKey": "stake1uyy9usydnlle5850guwg44wk2fnwk6am3k4p5y3gll7xf7cnlunwx",
+      "totalAdaFlowed": 259017470,
+      "addresses": [
+        "addr1qxnykaaqc2vy6rwspz9a07zzq4yade0hzj5kag24a892wzqgteqgm8llng0g73cu3t2av5nxad4mhrd2rgfz3lluvnasa42mm5",
+        "addr1q849yu85pr9cp0glf5zsmkqmw8wfv365zed7avef8anh7vggteqgm8llng0g73cu3t2av5nxad4mhrd2rgfz3lluvnasf89tvq",
+        "addr1q8w0qwea8vw7mqww2th5fzfxl3jarzdnsg8tzwq6htl8rhsgteqgm8llng0g73cu3t2av5nxad4mhrd2rgfz3lluvnas6nhdfw",
+        "addr1qywm9yfuk833hhmr59mt7x4rw7njpj3a9apapjtlklq48zcgteqgm8llng0g73cu3t2av5nxad4mhrd2rgfz3lluvnas5luajx",
+        "addr1qx3gu5tkdxwxresslsas3ew2h88d377j9864gs9lv5ufqzggteqgm8llng0g73cu3t2av5nxad4mhrd2rgfz3lluvnasvykttd",
+        "addr1q8d0we5d34qj8f6ywupqgdlc8cfx9uryc7lxsgw9zjwvlwsgteqgm8llng0g73cu3t2av5nxad4mhrd2rgfz3lluvnas2fs93l",
+        "addr1qx250fck40cmt2agx70hshczxxz5hkauve4lhht29n8kluqgteqgm8llng0g73cu3t2av5nxad4mhrd2rgfz3lluvnastqu0sw",
+        "addr1qxjvxjx3sclhltqxwhjqk50yrlm9u9vtd4ktqad6fc4n2cqgteqgm8llng0g73cu3t2av5nxad4mhrd2rgfz3lluvnasu2eqc9"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool1xc6la5z92seku86c4rdnuvxjdc3fh8pdtanlgxdy99cxjrkhzkd",
+      "drep": null,
+      "controlledAda": 2066860,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1u9wtjxu8xcpy24xvfa5kuypdeqtlkhsm4gwu4cevtapp2esnjaxrh",
+      "totalAdaFlowed": 252624717,
+      "addresses": [
+        "addr1q9v5u2rzzvf9ahzfc85wkl9e64xc9ydvygac5e3t342uytzuhydcwdszg42vcnmfdcgzmjqhld0ph2saet3jch6zz4nqhf88dv",
+        "addr1q8q283n66hzr4y4sttc67sflfeuz2hnxg5nwxz5ewmx7e86uhydcwdszg42vcnmfdcgzmjqhld0ph2saet3jch6zz4nqca3xsk",
+        "addr1q84mtsq0gt3q90km8nxnk5vg70wffy2m2n8z7u37z72lr6zuhydcwdszg42vcnmfdcgzmjqhld0ph2saet3jch6zz4nqeyyp0k",
+        "addr1q9fe566d46g3kd5s4rl8wx4ecrvhg0wnzf36g8ud5h5qpzjuhydcwdszg42vcnmfdcgzmjqhld0ph2saet3jch6zz4nqlv66mm",
+        "addr1qyuql8elqgsmatwhkzqprfrquw47ueyvanlqs53ezzh5e5zuhydcwdszg42vcnmfdcgzmjqhld0ph2saet3jch6zz4nqsv3qu7",
+        "addr1q8ftawx946y9mcsken6ucna3ll3zl52at4666j2jnud896zuhydcwdszg42vcnmfdcgzmjqhld0ph2saet3jch6zz4nqzun6c2",
+        "addr1q8ftawx946y9mcsken6ucna3ll3zl52at4666j2jnud896zuhydcwdszg42vcnmfdcgzmjqhld0ph2saet3jch6zz4nqzun6c2",
+        "addr1q86n00chp4qddqsv84w94cewvn4e56plpwujt66nl9pm302uhydcwdszg42vcnmfdcgzmjqhld0ph2saet3jch6zz4nqjyfp4q",
+        "addr1q8ceshxp5a0e8m4aql0e9p4x2nwxw4ys6tjje0qwcqasy62uhydcwdszg42vcnmfdcgzmjqhld0ph2saet3jch6zz4nqkmnkxl"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool1t6stu46gth7awdlrdmxmjhgrk9rjhez9qfnlhkhfvf0fj4q3h2a",
+      "drep": null,
+      "controlledAda": 20720,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1uxmkwkydskz6aa4cmjar9m7fehh87f08rj6llsu5rp5nnqq3cz0au",
+      "totalAdaFlowed": 240273100,
+      "addresses": [
+        "addr1qxed6ja9f8pd5lsek6av6u4zt6l8av69rmlexn53ajgu8udhvavgmpv94mmt3h96xthunn0w0uj7w894llpegxrf8xqqgea3cn"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool1l3fvlzadk5hg78wy3e304s9t8tjzxnu962e2fl7tq8x2yg3mz6l",
+      "drep": null,
+      "controlledAda": 1,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1uy4pjl5ecvj9l6qv29r528zdt5m3d9e6c7k0g95eaxmmm0crea229",
+      "totalAdaFlowed": 238011757,
+      "addresses": [
+        "addr1qx9j03v74fulkh79udsap679xmhqrdutxp4tt92st5kq8ce2r9lfnseytl5qc528g5wy6hfhz6tn43av7stfn6dhhkls89gf2h",
+        "addr1qy3lg9h6c4geux42s97gald7j9nnutr3kua994qcq2dhyl32r9lfnseytl5qc528g5wy6hfhz6tn43av7stfn6dhhklse4m5l6",
+        "addr1q9j95t3e09ayqwmspr798zygmjzxexq2cuh0y9p4zyh8ttp2r9lfnseytl5qc528g5wy6hfhz6tn43av7stfn6dhhklsv7sy6l",
+        "addr1qxrhlrfs6rewlr3lw4y8zypwxxdtsk0m9nsy2vmrel9399f2r9lfnseytl5qc528g5wy6hfhz6tn43av7stfn6dhhklsv04k9p",
+        "addr1qysh6vt9azsxgfar09df546vxggcgyzlqwdtq2g09unggrf2r9lfnseytl5qc528g5wy6hfhz6tn43av7stfn6dhhklshyrczk",
+        "addr1q8hdh405ufshcsaus5htqeq5je2gvfccd6a6gdnat2l5a9e2r9lfnseytl5qc528g5wy6hfhz6tn43av7stfn6dhhkls9kr90k",
+        "addr1q94gm9m47dcqaysqt3667pa3quamr4y60jlqkehr3erefgp2r9lfnseytl5qc528g5wy6hfhz6tn43av7stfn6dhhklsrlak8e",
+        "addr1qyznruvn0uguaqjlu2elhqfcnyqx7d4cst4pu8eptg2gza32r9lfnseytl5qc528g5wy6hfhz6tn43av7stfn6dhhklsvvczta",
+        "addr1q89vs4umftk83qac3qt2n7pv4xr6uvxjgj73lfmwvjyfayf2r9lfnseytl5qc528g5wy6hfhz6tn43av7stfn6dhhkls27j0xs",
+        "addr1q8qu6cvaj3fncy30xlyfs2pmeaamah767z87ug8xckwgdjp2r9lfnseytl5qc528g5wy6hfhz6tn43av7stfn6dhhklsnrml35",
+        "addr1q9wt3kjcja5qn2akz3ljjh009pl77dun4e22hn88a746md32r9lfnseytl5qc528g5wy6hfhz6tn43av7stfn6dhhklsd58m3f",
+        "addr1q89vs4umftk83qac3qt2n7pv4xr6uvxjgj73lfmwvjyfayf2r9lfnseytl5qc528g5wy6hfhz6tn43av7stfn6dhhkls27j0xs",
+        "addr1q82uu5uc3cnr2ejvsz85mlr3sf24y0lweeygf8ezvxhc2gp2r9lfnseytl5qc528g5wy6hfhz6tn43av7stfn6dhhklsgc64hd"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool1s6s6eyve0lmc4e0emzf2l68n9ya0rhrpdcq0jmkmmmxv2rkrx42",
+      "drep": null,
+      "controlledAda": 26,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1u8520s54w57rw6pmshw3yz2p2v5wp9g2ac846qn4wm0rx5skeefny",
+      "totalAdaFlowed": 212310223,
+      "addresses": [
+        "addr1q8ejgarnfs8y70jexfcuhgcrgygx9yyrumufxhc835grsl0g5lpf2afuxa5rhpwazgy5z5eguz2s4ms0t5p82ak7xdfq9mn78j"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool17038jcq6xdgjn0xsjx7m79rx52r7sucqwtr5j20tk23w5mjank3",
+      "drep": null,
+      "controlledAda": 1,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1ux98kz6s9e29yktp0c4lefkah9dcs83jpgdd4pldhtsdpkgsxsa52",
+      "totalAdaFlowed": 159317673,
+      "addresses": [
+        "addr1q896twehfg22tagarueqtc0jmja78sdwfvkm9d22jvee3cy20v94qtj52fvkzl3tljndmw2m3q0ryzs6m2r7mwhq6rvs3mtj9g",
+        "addr1qxaka9k7nn6ek3pfj0a4s30kfm9jd5tmr3qd5vfjyl5z6au20v94qtj52fvkzl3tljndmw2m3q0ryzs6m2r7mwhq6rvswxfpj4",
+        "addr1qxvqmcye8nuyj7kx3n5znetkd045tejtxpnayn7q5c04d3u20v94qtj52fvkzl3tljndmw2m3q0ryzs6m2r7mwhq6rvs6xzcau",
+        "addr1q8gkhm4930n6638wzxueg9l5taqzgge2awphc4jy0kqgeau20v94qtj52fvkzl3tljndmw2m3q0ryzs6m2r7mwhq6rvst5lc84",
+        "addr1q9f7rddpkpjfn8azdvdd6zw7jfnkm9dauu3wwrpcjhrk0hy20v94qtj52fvkzl3tljndmw2m3q0ryzs6m2r7mwhq6rvs99l6k6",
+        "addr1qx2adpv0ty244yfyzgnna3sl3skp55dfgjqex6az6zp64jv20v94qtj52fvkzl3tljndmw2m3q0ryzs6m2r7mwhq6rvsujhexh",
+        "addr1qxaka9k7nn6ek3pfj0a4s30kfm9jd5tmr3qd5vfjyl5z6au20v94qtj52fvkzl3tljndmw2m3q0ryzs6m2r7mwhq6rvswxfpj4",
+        "addr1q9wqwsymg97a82kqt9d42syfhg5ckjqlwqnkr8ltu4r0av520v94qtj52fvkzl3tljndmw2m3q0ryzs6m2r7mwhq6rvsxe2ask",
+        "addr1q896twehfg22tagarueqtc0jmja78sdwfvkm9d22jvee3cy20v94qtj52fvkzl3tljndmw2m3q0ryzs6m2r7mwhq6rvs3mtj9g",
+        "addr1qxk48lkkelf4m6cwaycy8slh9f67r4ga46knzspcrdp0xly20v94qtj52fvkzl3tljndmw2m3q0ryzs6m2r7mwhq6rvs4ylszr",
+        "addr1q8tkge4gxcckawcvurue7zmejleqqnfn7kfcxn5p87vs78v20v94qtj52fvkzl3tljndmw2m3q0ryzs6m2r7mwhq6rvspp7ru6",
+        "addr1qyhl85593q3wq92mcgnksvpx7ykvem87d295r62h8gx4xl520v94qtj52fvkzl3tljndmw2m3q0ryzs6m2r7mwhq6rvs6adp6s",
+        "addr1q9wqwsymg97a82kqt9d42syfhg5ckjqlwqnkr8ltu4r0av520v94qtj52fvkzl3tljndmw2m3q0ryzs6m2r7mwhq6rvsxe2ask"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": null,
+      "drep": null,
+      "controlledAda": 0,
+      "active": false
+    },
+    {
+      "stakeKey": "stake1u9endmqh5t23fdr2cmvlju3q7hrxl727edwdwmh8crcschq8q0m46",
+      "totalAdaFlowed": 150668096,
+      "addresses": [
+        "addr1q9rw8fcveaxrh8qq3f4dx00c5dalz07ly5clrzfjmtuy6ftnxmkp0gk4zj6x43kel9ezpawxdlu4aj6u6ahw0s83p3wqhudjzy",
+        "addr1q84c2wh4e7tclxg675f4tfgdevhdjdl87s86ss28nxjwzunnxmkp0gk4zj6x43kel9ezpawxdlu4aj6u6ahw0s83p3wqyll5lj",
+        "addr1q96dc6ejcplpv0l6qx5hrukvcmmfkmzmllp2le6r7v4vummnxmkp0gk4zj6x43kel9ezpawxdlu4aj6u6ahw0s83p3wq88wur9"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool1ye53d6kl460egekdnunjl4tx5zhs5puze8nqkfxyjuae7364w74",
+      "drep": null,
+      "controlledAda": 0,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1uxrytqx0v9t0rcz3dlshj08n2w6khfxu3k276vppqsukk2sfw5u56",
+      "totalAdaFlowed": 150544674,
+      "addresses": [
+        "addr1qytxqcgf799jvwq457gy0jcnpxsrdypqnjppseqd2phdqvuxgkqv7c2k78s9zmlp0y70x5a4dwjderv4a5czzppedv4q7ysku4",
+        "addr1qytxqcgf799jvwq457gy0jcnpxsrdypqnjppseqd2phdqvuxgkqv7c2k78s9zmlp0y70x5a4dwjderv4a5czzppedv4q7ysku4"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": null,
+      "drep": null,
+      "controlledAda": 0,
+      "active": false
+    },
+    {
+      "stakeKey": "stake1uxtj8luzpucf5jp5df0za7klmc9eh0rg2t08zwysa58jtwslp7dqz",
+      "totalAdaFlowed": 150127611,
+      "addresses": [
+        "addr1qytpz5tamgszwt5prdpku680qg8jrpxt9qwhyrqyatryts5hy0lcyresnfyrg6j79madlhstnw7xs5k7wyufpmg0ykaqdvwna4",
+        "addr1qxwvjmzlt85gyezkkz45uztfmgh0gjr49jzn6lcfqq4jyh5hy0lcyresnfyrg6j79madlhstnw7xs5k7wyufpmg0ykaq0x5l7r",
+        "addr1q8mfdqwymuaxh4ea68q04nr5g3384ykqh0x4rlj8qpadc75hy0lcyresnfyrg6j79madlhstnw7xs5k7wyufpmg0ykaq0kc66t"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": null,
+      "drep": null,
+      "controlledAda": 0,
+      "active": false
+    },
+    {
+      "stakeKey": "stake1u84jrq070qkg09dg8ta3cqaxech4fck953kcwkptzgp3q6cxsu8x6",
+      "totalAdaFlowed": 150010004,
+      "addresses": [
+        "addr1qycqtlc8y59nd5xmmnwc2sfaz8n778lhukgfa6zljj4jphhtyxqlu7pvs726swhmrsp6dn302n3vtfrdsavzkysrzp4s8ndyhu",
+        "addr1q8t3qd7xrmrqh7d4r7j2qgd2p86xjw3mlqapsr905upg9zhtyxqlu7pvs726swhmrsp6dn302n3vtfrdsavzkysrzp4sfjqshg"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool1c4padx3e59x8wgxpsh3208rkf8fv4v6ez2rx503de93n2jl0njw",
+      "drep": null,
+      "controlledAda": 112017,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1u8aazw72vc5j68da8wn7p69cn9dteq6w5ws552pg339lrdqyzupvz",
+      "totalAdaFlowed": 150000002,
+      "addresses": [
+        "addr1qywh462jmlm3prwkewe86n7h3a9rj8cfq4petdy0pcy8lqlm6yau5e3f95wm6wa8ur5t3x26hjp5agapfg5z3rzt7x6qc25f27"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool15l03wrccy4wc3z9rfthd4y2mzy45genw5re7lvkmaynwuafr96u",
+      "drep": null,
+      "controlledAda": 116060,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1ux0xnj5ljjx734qph69jc8a2mdemgguy5640pednyw7p08c6mjwk6",
+      "totalAdaFlowed": 150000002,
+      "addresses": [
+        "addr1q8ga4n300k7wl99tuxg86nmlu52v2qhs63ftyfhptczq5qy7d89fl9ydar2qr05t9s064kmnks3cff427rjmxgauz70sadte7r"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool10pvwz69qz468m79ysw8qjcav5z830sv4zmeprru2n4anyuxwj9l",
+      "drep": null,
+      "controlledAda": 124123,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1uxtwdfncacfphjdke30wz8hprmpt5ck90a8583zjes7ed2gldnk54",
+      "totalAdaFlowed": 150000002,
+      "addresses": [
+        "addr1qy4rwsyxtyurnyltf0d9yw796hygxqy4jtp0a0cja73g7luku6n83msjr0ymdnz7uy0wz8kzhf3v2l60g0z99npaj65surhdg0"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool1tv83dxhj3tfssxvzfxv830kg3r5ysyumylyxlagheytpcdsyu2m",
+      "drep": null,
+      "controlledAda": 127764,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1uyuahf6wkrydsfkpsrae6vkcgkjz9na744774yh0vhpngdgrl5j59",
+      "totalAdaFlowed": 150000002,
+      "addresses": [
+        "addr1qxjr0d3lnyruwprnt74cld8rgjw5xczc2e2a6296vfevl4pemwn5avxgmqnvrq8mn5eds3dyyt8mattaa2fw7ewrxs6sa4j4vp"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool18vyjg6jlyt2jywae7ndzv0f7xkrsexxgyhunxrlgm3zaku0327k",
+      "drep": null,
+      "controlledAda": 140718,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1u9ujy430k9j59zxjk6fyhn6x5efz6zp677scd047l8a55uqx5az0f",
+      "totalAdaFlowed": 150000002,
+      "addresses": [
+        "addr1q9jjqy5d4u879dgurqtf37yty39qvtvvh0qsr0g0t5dqedmeyftzlvt9g2yd9d5jf085dfjj95yr4aaps6lta70mffcqqlgqe5"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool1kwj2h633h4jxqs9jw60hdk6u20natf7rfux0sp65xl59vh5tytl",
+      "drep": null,
+      "controlledAda": 128645,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1uxw8slv30u9clrfjrq4w0uprwf74r5zmugm56ehukhvl3tctw2pkz",
+      "totalAdaFlowed": 150000002,
+      "addresses": [
+        "addr1qx3arjv92p36ye2qk7ndvg5400p89y50tghamdctrsaxycuu0p7ezlct37xnyxp2ulczxuna28g9hc3hf4n0edwelzhswsmwg4"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool1u60gvu8qr69z4vx9wuqelxfhcuvjuxuvxyj9edf8rkmns0405ny",
+      "drep": null,
+      "controlledAda": 135553,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1uxz3a23cmjcmautfyel85f56dmw8skznsz0d228km6udsvgra8065",
+      "totalAdaFlowed": 150000002,
+      "addresses": [
+        "addr1q8n4rr6etc99jhevwv9u0rxjh8lxfh0kzvtlpkuvgagcga59r64r3h93hmckjfn70gnf5mku0pv98qy76550dh4cmqcs4fgket"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool1u32x2td5hd9q02k9rhuse38sstxjs5n2exgt0h0hgehdyuw9xsf",
+      "drep": null,
+      "controlledAda": 124313,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1uytfgj3wquuyz68r3cvx0z75mtnc4wj0cdxe2sgn70za8dqwsfwfr",
+      "totalAdaFlowed": 150000002,
+      "addresses": [
+        "addr1qxe9hf03qma7q7eqgz7fsg2k6kz29vm980c5uj84ww5zwvgkj39zupecg95w8rscv79afkh832ayls6dj4q38u796w6qyj4g5r"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool1nphru2ce5suy3fhvn03wp36mwjnm889ufsep42nat232sh87dr5",
+      "drep": null,
+      "controlledAda": 119730,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1u8mf4hrhd9mtp86zkazlyg4w2zvzeavpa457lyq2vfn55lgwzk6t2",
+      "totalAdaFlowed": 150000002,
+      "addresses": [
+        "addr1q9htct2tkyesdh4yd8mp2at2kfnv2ev56c3dc7ns07kkdchkntw8w6tkkz059d697g32u5yc9n6crmtfa7gq5cn8ff7sm5h90n"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool1fsck5keruz5n4qyes46s9rvrnxcrn8hukemgxazzlxpp6g66fzh",
+      "drep": null,
+      "controlledAda": 144159,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1uxdpsgk3xpgvh0mj4sch29veh3al8xut2s0al0zy5exgh5ctds492",
+      "totalAdaFlowed": 150000002,
+      "addresses": [
+        "addr1q9zxanr9u7v3hmnng6yyz7vu5kyteg03ter4vfe33nsg8u56rq3dzvzsewlh9tp3w52en0rm7wdck4qlm77yffjv30fsqmw8x3"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool1lqxy8cefgwspslwmvjcvu6xddmqwvy5jm8m4z5aveyjcx7hf4fy",
+      "drep": null,
+      "controlledAda": 119443,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1uxl72wy87wxcp8deu0j2kusmspywuz0gnsjf0dxzf6rv9xcwlhxm7",
+      "totalAdaFlowed": 150000002,
+      "addresses": [
+        "addr1q9wqdwwry7tzcs8x2asg4y0us0xpxd9e3tq3knl4q5dvx69lu5ug0uudszwmncly4dephqzgacy738pyj76vyn5xc2ds6suss8"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool1zxklu387uqpzpteqfk48enkuwyjvq0qawc2wvrdym540zk0yqps",
+      "drep": null,
+      "controlledAda": 123348,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1ux69n5h3pdq9zxv2apma7zfsul9vdfwhe5mea3832srzenclqnmrk",
+      "totalAdaFlowed": 125999997,
+      "addresses": [
+        "addr1qytsapuws0rlgyx4cwe4rqpz20rj8450xj55tjdv6tlgc945t8f0zz6q2yvc46rhmuynpe72c6ja0nfhnmz0z4qx9n8sucug0g",
+        "addr1qx7v938kl67m3f7skc87tzrz7gz0f9gz3taxvyl4zemmnmd5t8f0zz6q2yvc46rhmuynpe72c6ja0nfhnmz0z4qx9n8sr4eyv0"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool107attaqquuq5ne2ch0hx0qcnlkzzr2683s4gml4ywnqvgj6pak9",
+      "drep": null,
+      "controlledAda": 117,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1ux22jja6l9uwy28x2amq8pf0gpf8tjqurqar2jjf5vu2p2sfltxtz",
+      "totalAdaFlowed": 120268417,
+      "addresses": [
+        "addr1q9lxecxvqsgws9s6wl2w87s5fwegdt62xq8nez26zwca2uu5499m47tcug5wv4mkqwzj7szjwhypcxp6x49yngec5z4qeu2jsy",
+        "addr1qyc33x3gnvq0curu2xx72e0rw3neqxug7kdjrwfn5enf2zu5499m47tcug5wv4mkqwzj7szjwhypcxp6x49yngec5z4qsz0fqg",
+        "addr1q8v6z0pekhdze9pavya0tz2ve675tur9979jjqw4v9p840y5499m47tcug5wv4mkqwzj7szjwhypcxp6x49yngec5z4qw9lgzt",
+        "addr1qyavden48w3xvm4p8lm0c6uec8zewndevsd6dx76rm6ug2u5499m47tcug5wv4mkqwzj7szjwhypcxp6x49yngec5z4qg0vckr"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool1ffuv59d0rdp0jsgxa9x5r8pvmaexvuufeu43kpxl3u2qut3ljq4",
+      "drep": null,
+      "controlledAda": 905,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1uxghu8uzc88za5r7n6kghkc6e3y4m37tfrjk4jv8eqjljacqcwrs6",
+      "totalAdaFlowed": 120000100,
+      "addresses": [
+        "addr1qyupurpa887n0hy56g8eatkp47p4l7guxxvfr0kjhttksgu30c0c9sww9mg8a84v30d34nzfthrukj89dtyc0jp9l9ms88dx3w"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool19frt3kaxxk4vr4x3wnaapntu0ul0dsesu77wfqaawc5h5ffgfgt",
+      "drep": null,
+      "controlledAda": 0,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1u9sglh8ge6dlcwngnv3gxy62yue7g4x0h5au5l0m4k6f4qsm5v0r4",
+      "totalAdaFlowed": 108659712,
+      "addresses": [
+        "addr1q836zusme930c38fat09jgw7ejtjtm0tecd7nurtm98t7wrq3lww3n5mlsax3xezsvf55fenu32vl0fmef7lhtd5n2pqt6gy3w"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool1czg8a3gg33aujkkcf9wrnr8zf4qq9qn0rrkh04umrg60k0vyvdl",
+      "drep": null,
+      "controlledAda": 0,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1u84q6zq7juc74swm8e9f4py5qdsnrwujrpqa4hyq4vmhxkcegaq5t",
+      "totalAdaFlowed": 108659712,
+      "addresses": [
+        "addr1q8zegv62d7787rr3uh2fy3n4s93tfsk6fjy69jes0fajqhh2p5ypa9e3atqak0j2n2zfgqmpxxaeyxzpmtwgp2ehwddsp8vsgd"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool1cz8pf6u3m9n6s4ql9nrgd5gx4tzflr49wcy0cuy5n4tpu00pa4f",
+      "drep": null,
+      "controlledAda": 0,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1u8m5ganwyq8fjedsq279h957qph898lf07vjnqvjp9qs9squjer5r",
+      "totalAdaFlowed": 108659712,
+      "addresses": [
+        "addr1qyglpm7d55zvsnckgu8xcpattyr9ua3v6npyl2d58265x90hg3mxugqwn9jmqq4utwtfuqrww207jlue9xqeyz2pqtqq3g9rl8"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool1dfg7g6u6vvs4av77frff5f2zejznmjmvtewhxzyg5h3p5m3we65",
+      "drep": null,
+      "controlledAda": 0,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1ux6ws32rfgd3xtcx84vyqcjumstc83xnwqh2l9vnwawmg8sq7t6lf",
+      "totalAdaFlowed": 108659712,
+      "addresses": [
+        "addr1qyp9zm4yrmccw5rxhlyggu4svc82qcc7dgjat0e3umzq46d5apz5xjsmzvhsv02cgp39ehqhs0zdxupw472exa6aks0qfse5dx"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool16qd8xyz4dsn3g5zxdxtvr253u8jpy7xcn4ut9v92ug20gegt55h",
+      "drep": null,
+      "controlledAda": 0,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1u9wz870uaqlf3x9w0pv988y8fq5sweg0splr6c74rcgkk2sup7st8",
+      "totalAdaFlowed": 108659712,
+      "addresses": [
+        "addr1q9junwm3x6kx2vmk8p7mj7fzau77hpzz40hn2pkqad9uf02uy0ule6p7nzv2u7zc2wwgwjpfqajslqr7843a28s3dv4qngsf7p"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool1rcj4kw3nepfpwr6s2tzgq3x3emw45n9w58063j98h38rse482k0",
+      "drep": null,
+      "controlledAda": 0,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1u9544fx0hgkg982zz98t4849rhm35v3g22j5dsl4agxt9xganchyy",
+      "totalAdaFlowed": 108659712,
+      "addresses": [
+        "addr1q8y9tugtey8fyrnp5xhdlcn3sat3np4wldx2jmst93gjnknft2jvlw3vs2w5yy2wh202280hrgezs549gmplt6svk2vsv89esz"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool19z8vmgdts5lstk8z5lc8mgz3a8jhggscsf9cygvuz0vtuzcsxyu",
+      "drep": null,
+      "controlledAda": 0,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1uymtqhnfxsa4ln56a2q6260esylf6jpg0xtjkpl03l4gnxsdyhrju",
+      "totalAdaFlowed": 108659712,
+      "addresses": [
+        "addr1q8tt7xqc6kk38yun7tu77ky0stwqufrhhqfsp3urq3yjarfkkp0xjdpmtl8f465p545lnqf7n4yzs7vh9vr7lrl23xdq4w62xz"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool1uqehpxy4wst2k5u640wdt9tgmqdd26l0dahgxf3ln70js830xv2",
+      "drep": null,
+      "controlledAda": 0,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1uyeuv4h72p3f2pdn9th7e84a7src9j5vl4l3rzc3dnnvzfshqsnjq",
+      "totalAdaFlowed": 108400008,
+      "addresses": [
+        "addr1qyeuv4h72p3f2pdn9th7e84a7src9j5vl4l3rzc3dnnvzf3ncet0u5rzj5zmx2h0aj0tmaq8st9geltlzx93zm8xcynq4nctx5",
+        "addr1qyeuv4h72p3f2pdn9th7e84a7src9j5vl4l3rzc3dnnvzf3ncet0u5rzj5zmx2h0aj0tmaq8st9geltlzx93zm8xcynq4nctx5",
+        "addr1qyeuv4h72p3f2pdn9th7e84a7src9j5vl4l3rzc3dnnvzf3ncet0u5rzj5zmx2h0aj0tmaq8st9geltlzx93zm8xcynq4nctx5",
+        "addr1qyeuv4h72p3f2pdn9th7e84a7src9j5vl4l3rzc3dnnvzf3ncet0u5rzj5zmx2h0aj0tmaq8st9geltlzx93zm8xcynq4nctx5",
+        "addr1qyeuv4h72p3f2pdn9th7e84a7src9j5vl4l3rzc3dnnvzf3ncet0u5rzj5zmx2h0aj0tmaq8st9geltlzx93zm8xcynq4nctx5",
+        "addr1qyeuv4h72p3f2pdn9th7e84a7src9j5vl4l3rzc3dnnvzf3ncet0u5rzj5zmx2h0aj0tmaq8st9geltlzx93zm8xcynq4nctx5"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool1wvaj307ee8jfewv9qjtgk0q3elmpe5lz4n2dec2303062f7dc4c",
+      "drep": "drep_always_abstain",
+      "controlledAda": 758780,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1u8cz6vkumdfw0x874u96f3makvvgwnlmu7aar4sea7g7t2s6yxhz6",
+      "totalAdaFlowed": 70157271,
+      "addresses": [
+        "addr1qx7akpyc44a5ej7p8rlaxywknnesm6nz87hfcjd40j04zxhs95edek6ju7v0atct5nrhmvccsa8lheam68tpnmu3uk4qgncgj4",
+        "addr1qy7wepfmfeh8q53e82j5s0t3epklg8fcr24nhq8xp7vasu8s95edek6ju7v0atct5nrhmvccsa8lheam68tpnmu3uk4qdvv4d7"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": null,
+      "drep": null,
+      "controlledAda": 0,
+      "active": false
+    },
+    {
+      "stakeKey": "stake1ux7amjycty35g2hpmkvzuq7ddgck6wkezsh0qqdxgsdetrgluuvv6",
+      "totalAdaFlowed": 64000000,
+      "addresses": [
+        "addr1q84ytlwmdjmlqv4fz7amckamw45gnxd5xzypryas7mqx87damhyfskfrgs4wrhvc9cpu6633d5adj9pw7qq6v3qmjkxs5qmug8"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": null,
+      "drep": null,
+      "controlledAda": 1,
+      "active": false
+    },
+    {
+      "stakeKey": "stake1uy96a83frtr5ja9dta73xwh043pwp7vgc3884w72vxtx65s0ul245",
+      "totalAdaFlowed": 56900003,
+      "addresses": [
+        "addr1qxq3fmj8stduezdm85ggkcwcnjf8xn95wnxfknwnsevvxngt460zjxk8f9626hmazvawltzzuruc33zw02au5cvkd4fq3tj5ll",
+        "addr1q9m0jvpldczp8j0rn67kt52mg7c7rppkqhakgt6efzc79zqt460zjxk8f9626hmazvawltzzuruc33zw02au5cvkd4fqvnh5qx",
+        "addr1qy34g8sqcftcrvugk5e8h4rjyvyr0q0r8vqud6686uvrp2qt460zjxk8f9626hmazvawltzzuruc33zw02au5cvkd4fqehne9n",
+        "addr1q9279xx9pgmhnr93wrfjjxht09wxe9hmdf93zzze4a9ljcgt460zjxk8f9626hmazvawltzzuruc33zw02au5cvkd4fq7gstuz"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": null,
+      "drep": null,
+      "controlledAda": 0,
+      "active": false
+    },
+    {
+      "stakeKey": "stake1u8l988c3z7yt9xawxr4k777pkxlg34e25hxvyxx37mcxwvgwurply",
+      "totalAdaFlowed": 42872309,
+      "addresses": [
+        "addr1q95g6ysndeh94nqv3y5yjdkrdj72ptc3rvvsq2nh6827lml72w03z9ugk2d6uv8tdaaurvd73rtj4fwvcgvdrahsvucst58uta",
+        "addr1q89mqmpcvjkr530daksy7x9jd8su80lzh03rtszt7n5lteh72w03z9ugk2d6uv8tdaaurvd73rtj4fwvcgvdrahsvucs0g7xjr",
+        "addr1q9h2yldsjdxreqlrtsjd4r78enucvm8myv36mdd0h29mpj872w03z9ugk2d6uv8tdaaurvd73rtj4fwvcgvdrahsvucslxmwzj"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool168t0xlm0dtdgf7d5w2mrm7ulsw4czpw297yvrpke9pmjcc9hz7k",
+      "drep": null,
+      "controlledAda": 74,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1uyrqvjxf3gnh2jplqd6tvqaar88h2uwtk6fs6mpy60etdfgkmgfxf",
+      "totalAdaFlowed": 37802387,
+      "addresses": [
+        "addr1qx5skvdpeswemfwvxzc9na3gc202q620jm3m4jsmszkd2esxqeyvnz38w4yr7qm5kcpm6xw0w4cuhd5np4kzf5ljk6jssnwdzu"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": null,
+      "drep": null,
+      "controlledAda": 0,
+      "active": false
+    },
+    {
+      "stakeKey": "stake1uyeld202wg52hgca8chu8850z0l5ffjq00ta9tluryg265ghsljmw",
+      "totalAdaFlowed": 35217667,
+      "addresses": [
+        "addr1q9nr5yx2468mt2e8eguqrfw4kdf8ljapl0zvdyqh6vrkczpn76575u3g4w336030cw0g7yllgjnyq77h62hlcxgs44gssavj0f",
+        "addr1qyxvaukcxed7vceukw6acv0v697sz9ngl8uatcaxfa7pmmen76575u3g4w336030cw0g7yllgjnyq77h62hlcxgs44gsjklhdy",
+        "addr1qxyk3duhm5u37ksgz5jfqk7ezj7vlfucpd25vqs0n5de6t3n76575u3g4w336030cw0g7yllgjnyq77h62hlcxgs44gsjur3xy",
+        "addr1q9fkrlptckpwml3k84knmzvurta5hw3qvlvwdrq4wzr9wsen76575u3g4w336030cw0g7yllgjnyq77h62hlcxgs44gs4unjvt",
+        "addr1qyqgcjcmkeq4zpcrpwg82299xxmqyw7mvdjef8w0ls5ecu3n76575u3g4w336030cw0g7yllgjnyq77h62hlcxgs44gsmwefww",
+        "addr1q9nr5yx2468mt2e8eguqrfw4kdf8ljapl0zvdyqh6vrkczpn76575u3g4w336030cw0g7yllgjnyq77h62hlcxgs44gssavj0f",
+        "addr1q9nr5yx2468mt2e8eguqrfw4kdf8ljapl0zvdyqh6vrkczpn76575u3g4w336030cw0g7yllgjnyq77h62hlcxgs44gssavj0f"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool1d3gckjrphwytzw2uavgkxskwe08msumzsfj4lxnpcnpks3zjml3",
+      "drep": null,
+      "controlledAda": 17464,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1u9lafsd37kr3fdddrzm3q2sljqexpka0rasnrvvuruvhhvge4rene",
+      "totalAdaFlowed": 30001000,
+      "addresses": [
+        "addr1q9d6qkm60sclg0z44rkcv8kkpdt2rnm9jswrj5jq0p3rwkrl6nqmrav8zj666x9hzq4plypjvrd678mpxxcec8ce0wcs8ca46s",
+        "addr1q9d6qkm60sclg0z44rkcv8kkpdt2rnm9jswrj5jq0p3rwkrl6nqmrav8zj666x9hzq4plypjvrd678mpxxcec8ce0wcs8ca46s",
+        "addr1q9d6qkm60sclg0z44rkcv8kkpdt2rnm9jswrj5jq0p3rwkrl6nqmrav8zj666x9hzq4plypjvrd678mpxxcec8ce0wcs8ca46s"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": null,
+      "drep": null,
+      "controlledAda": 904,
+      "active": false
+    },
+    {
+      "stakeKey": "stake1uyzarr67ack8l5hgms45qt43d3wknl38v3hmzx286uj9u0gpl75gf",
+      "totalAdaFlowed": 24075817,
+      "addresses": [
+        "addr1qx2f0tcqfk5eq32470dje60e3ta3vp2nkc6t4n2c7trj6ts96x84am3v0lfw3hptgqhtzmzad8lzwer0kyv504eytc7sdvmvsx",
+        "addr1q9x90ewr7e08lcmnh5mgyv5wxe3ttwylfqmd0u659anyunq96x84am3v0lfw3hptgqhtzmzad8lzwer0kyv504eytc7sxq3v5e",
+        "addr1qxxdylsm0mqpl567txvr2ssplpcmjay2v7vydsup5zfwxhc96x84am3v0lfw3hptgqhtzmzad8lzwer0kyv504eytc7swguj0d",
+        "addr1qykr69c69mupclsmy2n3qaylhjmfperapquk6ghjpdcwm5c96x84am3v0lfw3hptgqhtzmzad8lzwer0kyv504eytc7sg9cdzf"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool1wpmjtfqcwvtcs9znpuulk99yk2zz6pfh0c4k9f2xlcspgqjndk2",
+      "drep": null,
+      "controlledAda": 2624700,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1uyfq72tjz9gwa7zyt4e4aczx906cd7pkr96xyk8vge3twvglt78tg",
+      "totalAdaFlowed": 23000000,
+      "addresses": [
+        "addr1qyfq72tjz9gwa7zyt4e4aczx906cd7pkr96xyk8vge3twvgjpu5hyy2samuyghtntmsyv2l4smurvxt5vfvwc3nzkucslv9vkk"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": null,
+      "drep": null,
+      "controlledAda": 11354,
+      "active": false
+    },
+    {
+      "stakeKey": "stake1u986gmjp5yg3eqtv5qcc3hhgx3zu6wct9l26k7scxeurvqgveu73f",
+      "totalAdaFlowed": 20184662,
+      "addresses": [
+        "addr1qx5zn2fv7flt4rv8g67w5gae23saqed72075c6hf2xacsh2053hyrgg3rjqkegp33r0wsdz9e5askt744dapsdncxcqsdpsypg"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": null,
+      "drep": null,
+      "controlledAda": 734,
+      "active": false
+    },
+    {
+      "stakeKey": "stake1u8plydm9ma7rx7zuq5vxfv3u2k6w69suj7gm4nw6jy2lm7sncarjr",
+      "totalAdaFlowed": 19998210,
+      "addresses": [
+        "addr1qx5t3m0e4m5v8cvsjcelwx728vkme3rymjghgsda2g8fg9kr7gmkthmuxdu9cpgcvjerc4d5a5tpe9u3htxa4yg4lhaqnaext0",
+        "addr1q86epwvnhp6rztl76gvd958xx6upmefxlhz54pnyyvc3lewr7gmkthmuxdu9cpgcvjerc4d5a5tpe9u3htxa4yg4lhaqm39xtc"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": null,
+      "drep": null,
+      "controlledAda": 0,
+      "active": false
+    },
+    {
+      "stakeKey": "stake1uytga7wy8nq56rf5v47ajsjjljaxtvhxj66fjegt33dr3ysgtqxvp",
+      "totalAdaFlowed": 19800001,
+      "addresses": [
+        "addr1qytga7wy8nq56rf5v47ajsjjljaxtvhxj66fjegt33dr3ysk3muug0xpf5xngetam9p99l96vkewd945n9jshrz68zfqe8pm9x",
+        "addr1qytga7wy8nq56rf5v47ajsjjljaxtvhxj66fjegt33dr3ysk3muug0xpf5xngetam9p99l96vkewd945n9jshrz68zfqe8pm9x"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool13h08lf24fjmxxg0mmuattjv8dvy0r6fc4hrqg4qmj38xsweexrv",
+      "drep": "drep_always_abstain",
+      "controlledAda": 34539,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1uxjx8enrsvyeqs5dz5ns906mry2ftq955sqwl8j9vhnx67cs34jx2",
+      "totalAdaFlowed": 9500001,
+      "addresses": [
+        "addr1qxjx8enrsvyeqs5dz5ns906mry2ftq955sqwl8j9vhnx67ayv0nx8qcfjppg69f8q2l4kxg5jkqtffqqa70y2e0xd4as6rnlwj",
+        "addr1qxjx8enrsvyeqs5dz5ns906mry2ftq955sqwl8j9vhnx67ayv0nx8qcfjppg69f8q2l4kxg5jkqtffqqa70y2e0xd4as6rnlwj"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool1wvaj307ee8jfewv9qjtgk0q3elmpe5lz4n2dec2303062f7dc4c",
+      "drep": "drep_always_abstain",
+      "controlledAda": 9273999,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1u9n8nrxgjyyktceky5r5jptge6rfl0z8ap9zehalawkkj4cvk6wn8",
+      "totalAdaFlowed": 9149628,
+      "addresses": [
+        "addr1q9rvgkmlr373tv9ke77eyh30258ujtr5p6eat2zllz786jmx0xxv3ygfvh3nvfg8fyzk3n5xn77y06z29n0ml6add9ts8pred3",
+        "addr1q9va2m9uvv8q6q0dyh8fh3gguajuw7t77t0fmtzw0lttjjnx0xxv3ygfvh3nvfg8fyzk3n5xn77y06z29n0ml6add9tswc75qm",
+        "addr1qyfet5w8872p2zckky8ryc5hqsklxv0chcuz5eqyxkmcs9nx0xxv3ygfvh3nvfg8fyzk3n5xn77y06z29n0ml6add9tsa8kje9"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": null,
+      "drep": null,
+      "controlledAda": 0,
+      "active": false
+    },
+    {
+      "stakeKey": "stake1ux2esks0enzdwhy0slp47syf3067pd87kt4eswk459m728q9usct6",
+      "totalAdaFlowed": 6509169,
+      "addresses": [
+        "addr1q8ww79v2crq0kfve6ksqe7darae79y52uf8fk0pd708enpv4npdqlnxy6awglp7rtaqgnzl4uz60avhtnqadtgthu5wq55ygd9"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": null,
+      "drep": null,
+      "controlledAda": 1023,
+      "active": false
+    },
+    {
+      "stakeKey": "stake1uy45mfnslllpnfrxpa4aj73sajg64sgp782u77jc0ra274slt4tay",
+      "totalAdaFlowed": 5999000,
+      "addresses": [
+        "addr1qxvgrh4m6a6ajdyx2x28u88g9hm9ccr0qlfugswnyx4eqa3tfkn8pll7rxjxvrmtm9arpmy34tqsruw4eaa9s7864atq9s0a82",
+        "addr1qxvgrh4m6a6ajdyx2x28u88g9hm9ccr0qlfugswnyx4eqa3tfkn8pll7rxjxvrmtm9arpmy34tqsruw4eaa9s7864atq9s0a82",
+        "addr1qxvgrh4m6a6ajdyx2x28u88g9hm9ccr0qlfugswnyx4eqa3tfkn8pll7rxjxvrmtm9arpmy34tqsruw4eaa9s7864atq9s0a82"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool1ak3vhtv7alve9wfj5kx5xswrtfvy5a23txuupgy6nqpduq350w5",
+      "drep": "drep1ytvlwvyjmzfyn56n0zz4f6lj94wxhmsl5zky6knnzrf4jygpyahug",
+      "controlledAda": 646,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1u9h989ckz5a0rpmg9p9xznrmmndwjejxwuqfz4qc29k69dqfeau9x",
+      "totalAdaFlowed": 5000000,
+      "addresses": [
+        "addr1q8e03gajdykjfqrjs8zfllv430syvvw74wfld4gz9e6tqfmw2wt3v9f67xrks2z2v9x8hhx6a9nyvacqj92ps5td526qempwr5"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": null,
+      "drep": null,
+      "controlledAda": 0,
+      "active": false
+    },
+    {
+      "stakeKey": "stake1ux69k687tl0nww8uukhhdpucf34gvkj744wxkp6dzp37zkc0jfpn8",
+      "totalAdaFlowed": 5000000,
+      "addresses": [
+        "addr1qxl4es266aqj8w5c499h8fe9ee74nluu3snj330ykcndk945td50uh7lxuu0eed0w6resnr2sed9at2udvr56yrru9dsgv5jaz"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool14fjmlppz76667ws3jl5luejf2wgztuhpsftulvh3ucc65anqgve",
+      "drep": "drep_always_abstain",
+      "controlledAda": 9668551,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1uyhyq53jyv9eeu9uw7wj3pm6lvwdxnl3qax27kmqvzp8h6q50jkde",
+      "totalAdaFlowed": 3700000,
+      "addresses": [
+        "addr1qyd4wdtcm99tndyq469uq6nz5df3egfw37kwwed4v5gu33ewgpfrygctnnctcaua9zrh47cu6d8lzp6v4adkqcyz005qlk3882",
+        "addr1qyd4wdtcm99tndyq469uq6nz5df3egfw37kwwed4v5gu33ewgpfrygctnnctcaua9zrh47cu6d8lzp6v4adkqcyz005qlk3882",
+        "addr1qyd4wdtcm99tndyq469uq6nz5df3egfw37kwwed4v5gu33ewgpfrygctnnctcaua9zrh47cu6d8lzp6v4adkqcyz005qlk3882",
+        "addr1qyd4wdtcm99tndyq469uq6nz5df3egfw37kwwed4v5gu33ewgpfrygctnnctcaua9zrh47cu6d8lzp6v4adkqcyz005qlk3882",
+        "addr1qyd4wdtcm99tndyq469uq6nz5df3egfw37kwwed4v5gu33ewgpfrygctnnctcaua9zrh47cu6d8lzp6v4adkqcyz005qlk3882",
+        "addr1qyd4wdtcm99tndyq469uq6nz5df3egfw37kwwed4v5gu33ewgpfrygctnnctcaua9zrh47cu6d8lzp6v4adkqcyz005qlk3882",
+        "addr1qyd4wdtcm99tndyq469uq6nz5df3egfw37kwwed4v5gu33ewgpfrygctnnctcaua9zrh47cu6d8lzp6v4adkqcyz005qlk3882"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool126mkma8nv5axltmz7mmg8qz9e70nmhnf58hwx5772fhwgkhk6ag",
+      "drep": null,
+      "controlledAda": 5946,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1uxxntvltd5fjsamqzfnlyl6lqp9hrwetzfwsh8dvskm796saxml7p",
+      "totalAdaFlowed": 2900454,
+      "addresses": [
+        "addr1q9zhluenqhvu9jv5ye055kx30c9egdv6hd3c4eh5uhv92vvdxke7kmgn9pmkqyn87fl47qztwxajkyjapww6epdhut4qwhc64x"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool1wpmjtfqcwvtcs9znpuulk99yk2zz6pfh0c4k9f2xlcspgqjndk2",
+      "drep": null,
+      "controlledAda": 4932,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1u8j6zpxc9c9yr2nn52y4843lwymlfwcytpktrwuz4ggsztc75txl4",
+      "totalAdaFlowed": 2780550,
+      "addresses": [
+        "addr1q8v3phgkld9ez4wx3snksjzd98xnpt3g0h0kx9dvjy9fmjh95yzdsts2gx488g5f20tr7ufh7jasgkrvkxac92s3qyhskgdjv0"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool19lz8nyz0jjpdrdtnjaar4untk4th23gpg5s7aegn7480zff4vgq",
+      "drep": null,
+      "controlledAda": 40,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1uyzwrlh2hn8nrlzgpvjne6nhedljyycqv8frlr5z504j70qt9r2xv",
+      "totalAdaFlowed": 2615087,
+      "addresses": [
+        "addr1qxcyr0xyd20k95r27des4mzwhjlslgdkd0qt8v2yhs6fuscyu8lw40x0x87ysze98n480jmlygfsqcwj878g9glt9u7qcuwja0",
+        "addr1qxcyr0xyd20k95r27des4mzwhjlslgdkd0qt8v2yhs6fuscyu8lw40x0x87ysze98n480jmlygfsqcwj878g9glt9u7qcuwja0"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool1wpmjtfqcwvtcs9znpuulk99yk2zz6pfh0c4k9f2xlcspgqjndk2",
+      "drep": "drep1ytvlwvyjmzfyn56n0zz4f6lj94wxhmsl5zky6knnzrf4jygpyahug",
+      "controlledAda": 392,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1uxv3qzwrz52vrw934vkw23e3z0s2sawckusdykwf9nfylnctth3df",
+      "totalAdaFlowed": 1098540,
+      "addresses": [
+        "addr1q8pm74uems0e6rsk6s93e9lgac288km6a76x4eqdy2u7t3uezqyux9g5cxutr2evu4rnzylq4p6a3deq6fvujtxjfl8secd3u6"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": null,
+      "drep": null,
+      "controlledAda": 0,
+      "active": false
+    },
+    {
+      "stakeKey": "stake1uynt3adwxax55ygpg3sseava9duyqygkgwnhd9ttfuqdjkgcqhx06",
+      "totalAdaFlowed": 1077991,
+      "addresses": [
+        "addr1qymqzvswfg2qu4hy5kj2rc4menzmwy8dmxcs97nrkvw7d2pxhr66ud6dfggsz3rppn6e62mcgqg3vsa8w62kkncqm9vsf6w874"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": null,
+      "drep": null,
+      "controlledAda": 0,
+      "active": false
+    },
+    {
+      "stakeKey": "stake1uxt4ggeukq48lgw0tpvkvzr5jxdfcyqfatfuev433muk4ucpa2ru8",
+      "totalAdaFlowed": 906333,
+      "addresses": [
+        "addr1qxn5wfr7ynqh7xueuzj0xgjatqjc35p7282xgz5te55vq0uh2s3nevp207su7kzevcy8fyv6nsgqn6knejetrrhedtesmsmtfz"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool19lz8nyz0jjpdrdtnjaar4untk4th23gpg5s7aegn7480zff4vgq",
+      "drep": null,
+      "controlledAda": 1036,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1u8usla62uypmm4rjwx8mhzqrkard3m3g266j7shyudgvzzcqvylg6",
+      "totalAdaFlowed": 651985,
+      "addresses": [
+        "addr1qx3an6at29skklktzvlrktn76rpev0w6nv6psdezl3pvu6heplm54cgrhh28yuv0hwyq8d6xmrhzs4449apwfc6scy9s89tcmy"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": null,
+      "drep": null,
+      "controlledAda": 0,
+      "active": false
+    },
+    {
+      "stakeKey": "stake1u86kavllsmy69uax2tuf7sa77nn0nmnxastgtcew7wevh5gfdyc4g",
+      "totalAdaFlowed": 501000,
+      "addresses": [
+        "addr1qyehj6k3edwvj3gz2vzquzg3slcc0l02fhszct858axrath4d6ellpkf5te6v5hcnapmaa8xl8hxdmqksh3jauaje0gs6f4wjq"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool19lz8nyz0jjpdrdtnjaar4untk4th23gpg5s7aegn7480zff4vgq",
+      "drep": null,
+      "controlledAda": 94,
+      "active": true
+    },
+    {
+      "stakeKey": "stake1u82jf763mw8gd95st67xhzxf6jz9xfcy07duxk742em9wcs357a25",
+      "totalAdaFlowed": 500001,
+      "addresses": [
+        "addr1qy00egs6xmdlmqd6ldfj2zdt2ncfyh0r53encc47jmu3l6x4yna4rkuws6tfqh4udwyvn4yy2vnsglumcdda24nk2a3q9gwkpx"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": null,
+      "drep": null,
+      "controlledAda": 0,
+      "active": false
+    },
+    {
+      "stakeKey": "stake1uyqqw3vj64sdjuyerf969k7w49va9rk8vzgca004fg8r22cmltrnk",
+      "totalAdaFlowed": 500000,
+      "addresses": [
+        "addr1qxzs7uy9zna92lfesey3rx6aydtff9rf9l966ntuz6fu4ycqqaze94tqm9cfjxjt5tdua22e628vwcy3367l2jswx54swk3lgz"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": null,
+      "drep": null,
+      "controlledAda": 2,
+      "active": false
+    },
+    {
+      "stakeKey": "stake1u83mjpwvycjn96wdmr42he5vfnzxancz8xjznkzf0kf3h0s3tu5ek",
+      "totalAdaFlowed": 288482,
+      "addresses": [
+        "addr1q83mjpwvycjn96wdmr42he5vfnzxancz8xjznkzf0kf3h0hrhyzucf39xt5umk8240ngcnxydm8sywdy98vyjlvnrwlqperwky"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": null,
+      "drep": null,
+      "controlledAda": 24549585,
+      "active": false
+    },
+    {
+      "stakeKey": "stake1u9zjr6e37w53a474puhx606ayr3rz2l6jljrmzvlzkk3cmg0m2zw0",
+      "totalAdaFlowed": 127608,
+      "addresses": [
+        "addr1q8elqhkuvtyelgcedpup58r893awhg3l87a4rz5d5acatuj9y84nruafrmta2rewd5l46g8zxy4l49ly8kye79ddr3ksqal35g"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": null,
+      "drep": null,
+      "controlledAda": 1889254096,
+      "active": false
+    },
+    {
+      "stakeKey": "stake1u9szfag4wqxk8d5gkj83u54vuuuuecuzfn79vuzvc4qp0tgkewkjt",
+      "totalAdaFlowed": 19429,
+      "addresses": [
+        "addr1q8p7hhejuns2xgu3umdqp6dls7736cmlfql70l2ylttvqtrqyn632uqdvwmg3dy0ref2eeeeen3cyn8u2ecye32qz7ks4hzy7r"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": null,
+      "drep": null,
+      "controlledAda": 23,
+      "active": false
+    },
+    {
+      "stakeKey": "stake1uynjuymz6d4nxs3a07c7n0wj8dxwvc85mr9l7uh8rrg862szz7vr2",
+      "totalAdaFlowed": 10000,
+      "addresses": [
+        "addr1qynjuymz6d4nxs3a07c7n0wj8dxwvc85mr9l7uh8rrg862389cfk95mtxdpr6la3ax7ayw6vues0fkxtlaewwxxs054qmf30cm"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": null,
+      "drep": null,
+      "controlledAda": 1756459,
+      "active": false
+    },
+    {
+      "stakeKey": "stake1u8km43t93f3gkxh0edtrdcr3kfcqva3drpsucggvvujljnqldxcau",
+      "totalAdaFlowed": 7461,
+      "addresses": [
+        "addr1q9ahvm6jh7k75xmjkeygh5jswtazynmpqndvpac39jpa0c8dhtzktznz3vdwlj6kxms8rvnsqemz6xrpessscee9l9xq8j9p5m"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": null,
+      "drep": null,
+      "controlledAda": 551370,
+      "active": false
+    },
+    {
+      "stakeKey": "stake1uy6aejghpjlfgmzq58aghvsskeax3wcr5jt30cu27e5l5vs006hw2",
+      "totalAdaFlowed": 4010,
+      "addresses": [
+        "addr1q87g475unhe5h8vmpv7dwv7cf3gct9fmzu2zuylz5jkwvr34mny3wr97j3kypg063weppdn6dzas8fyhzl3c4anflgeq68h0p4"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": null,
+      "drep": null,
+      "controlledAda": 0,
+      "active": false
+    },
+    {
+      "stakeKey": "stake1uyxswvsg435uhv3gw43x2zy0rv3je4frq7724dqt8ue0gds3p28ev",
+      "totalAdaFlowed": 905,
+      "addresses": [
+        "addr1q847wt07u8kzw0ulx6l6ru0yt8avugctppjuglxpdnev7ugdqueq3trfewezsatzv5yg7xer9n2jxpau426qk0ej7smqy99l2g"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": null,
+      "drep": null,
+      "controlledAda": 0,
+      "active": false
+    },
+    {
+      "stakeKey": "stake1u8u4ucef3evd9lwgt0hskchrgxg35hygxft4xazyyyr5hlcakg0uz",
+      "totalAdaFlowed": 10,
+      "addresses": [
+        "addr1q8u4ucef3evd9lwgt0hskchrgxg35hygxft4xazyyyr5hllete3jnrjc6t7uskl0pd3wxsv3rfwgsvjh2d6yggg8f0lswcqu7f"
+      ],
+      "label": "SHELLEY_STAKED",
+      "pool": "pool1wm5pnu72efdcvjm34r7ykkxx2h549swddjrn6r2aqy3tvjc4l57",
+      "drep": "drep_always_abstain",
+      "controlledAda": 50359538,
+      "active": true
+    }
+  ],
+  "noStakeDestinations": [
+    {
+      "address": "addr1w8grjvk2c5rrnx8ewqutyp6e9j4mc3rrq92vkal6hffme2sydk50x",
+      "totalAda": 15608,
+      "label": "SCRIPT"
+    },
+    {
+      "address": "addr1wyrq89wykdmtpt0ftywlw27dt6d4jxu5sdmfgc2ktyklj3cyp4kcs",
+      "totalAda": 38499,
+      "label": "SCRIPT"
+    },
+    {
+      "address": "addr1wyrq89wykdmtpt0ftywlw27dt6d4jxu5sdmfgc2ktyklj3cyp4kcs",
+      "totalAda": 38499,
+      "label": "SCRIPT"
+    },
+    {
+      "address": "Ae2tdPwUPEZHMaovDgW7KFXMSn62aG7t67emV5qCdhDYonCVEQmR79bBHcA",
+      "totalAda": 89528,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrhsfnkjkBmmTyxnp86mPH5swTCMvoL6moSBUmub5GaQfoyCJHvWNGbJCRSg4SvD2hKffcs7bBZKb9V52Q81DSJJrPQjonePy",
+      "totalAda": 35487644,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrhspqHUfECBcALcjA7dtkqiiCL3JRj4GBX7j9gZYmvDtkKCSMWtDuWe9FrRKEcodaVSs9o2nt8bZmz57iqYa2yXPgpJ6nN58",
+      "totalAda": 100,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrhspqHUfECBcALcjA7dtkqiiCL3JRj4GBX7j9gZYmvDtkKCSMWtDuWe9FrRKEcodaVSs9o2nt8bZmz57iqYa2yXPgpJ6nN58",
+      "totalAda": 9000000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht4T9WLYom1jfzCk7UPMojgJy2dZencB9EQzw4Dq4Lx3GkLPUpEkdk3aVdPH8PQW5JgGTEECR2JMKPrqHHzDtFmkVkNVDbD",
+      "totalAda": 37451311,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht4T9WLYom1jfzCk7UPMojgJy2dZencB9EQzw4Dq4Lx3GkLPUpEkdk3aVdPH8PQW5JgGTEECR2JMKPrqHHzDtFmkVkNVDbD",
+      "totalAda": 3000000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht4T9WLYom1jfzCk7UPMojgJy2dZencB9EQzw4Dq4Lx3GkLPUpEkdk3aVdPH8PQW5JgGTEECR2JMKPrqHHzDtFmkVkNVDbD",
+      "totalAda": 6000000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrhsfnkjkBmmTyxnp86mPH5swTCMvoL6moSBUmub5GaQfoyCJHvWNGbJCRSg4SvD2hKffcs7bBZKb9V52Q81DSJJrPQjonePy",
+      "totalAda": 9000000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht7CFZP9pBHgpyPFwNEwcQZXMVkVQvqUVhH8bmPGR3wJ8BenmmUfDWe8iaoiQPVYy3vvxDuNo8KUUYTGEcJ6wUysHsmu5FP",
+      "totalAda": 5859907,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht9UGYS8ZwsjMeLXvZ9YgHQZpJtvpJVASLxjRq4ia9568WsMuVd3eyrJkrjpzYyR6dQrda6YdyFaUQgkX3MjUaEbJjPzB4X",
+      "totalAda": 7489953,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht9UGYS8ZwsjMeLXvZ9YgHQZpJtvpJVASLxjRq4ia9568WsMuVd3eyrJkrjpzYyR6dQrda6YdyFaUQgkX3MjUaEbJjPzB4X",
+      "totalAda": 5000000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrhtAChAe3CdhAskmfzE55X5Qj3F8fQjhauoR2Yu5fVnzz7K9PZQdmicyAyiqmPXVo7S4HUWTNCpTiYZJgxsXVScMBxhpcmGC",
+      "totalAda": 669000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht9UGYS8ZwsjMeLXvZ9YgHQZpJtvpJVASLxjRq4ia9568WsMuVd3eyrJkrjpzYyR6dQrda6YdyFaUQgkX3MjUaEbJjPzB4X",
+      "totalAda": 5000000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht9UGYS8ZwsjMeLXvZ9YgHQZpJtvpJVASLxjRq4ia9568WsMuVd3eyrJkrjpzYyR6dQrda6YdyFaUQgkX3MjUaEbJjPzB4X",
+      "totalAda": 5000000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht79wk1oshrSUUKaQUzdL2KP4LUv3GQkX5n3skFxG5XH5scoeXejo9JKNL5xtFjQz5jgbgPk4XBDhca34eLt2TPjBbXHrKb",
+      "totalAda": 15000000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht9UGYS8ZwsjMeLXvZ9YgHQZpJtvpJVASLxjRq4ia9568WsMuVd3eyrJkrjpzYyR6dQrda6YdyFaUQgkX3MjUaEbJjPzB4X",
+      "totalAda": 5000000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht9UGYS8ZwsjMeLXvZ9YgHQZpJtvpJVASLxjRq4ia9568WsMuVd3eyrJkrjpzYyR6dQrda6YdyFaUQgkX3MjUaEbJjPzB4X",
+      "totalAda": 9000000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht9UGYS8ZwsjMeLXvZ9YgHQZpJtvpJVASLxjRq4ia9568WsMuVd3eyrJkrjpzYyR6dQrda6YdyFaUQgkX3MjUaEbJjPzB4X",
+      "totalAda": 9700000,
+      "label": "BYRON"
+    },
+    {
+      "address": "addr1v9km0l2rg3gsxu75psczydqf27l42um4tkactle4ap20e3chdp35c",
+      "totalAda": 10000000,
+      "label": "SHELLEY_NO_STAKE"
+    },
+    {
+      "address": "addr1v9c6ea093f2ll8khdqx5tm80eppcxhhpgx6rmw5w068gdng9e3lq0",
+      "totalAda": 20000000,
+      "label": "SHELLEY_NO_STAKE"
+    },
+    {
+      "address": "DdzFFzCqrht79wk1oshrSUUKaQUzdL2KP4LUv3GQkX5n3skFxG5XH5scoeXejo9JKNL5xtFjQz5jgbgPk4XBDhca34eLt2TPjBbXHrKb",
+      "totalAda": 8000000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht9UGYS8ZwsjMeLXvZ9YgHQZpJtvpJVASLxjRq4ia9568WsMuVd3eyrJkrjpzYyR6dQrda6YdyFaUQgkX3MjUaEbJjPzB4X",
+      "totalAda": 550000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht9UGYS8ZwsjMeLXvZ9YgHQZpJtvpJVASLxjRq4ia9568WsMuVd3eyrJkrjpzYyR6dQrda6YdyFaUQgkX3MjUaEbJjPzB4X",
+      "totalAda": 50000000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht79wk1oshrSUUKaQUzdL2KP4LUv3GQkX5n3skFxG5XH5scoeXejo9JKNL5xtFjQz5jgbgPk4XBDhca34eLt2TPjBbXHrKb",
+      "totalAda": 1000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht79wk1oshrSUUKaQUzdL2KP4LUv3GQkX5n3skFxG5XH5scoeXejo9JKNL5xtFjQz5jgbgPk4XBDhca34eLt2TPjBbXHrKb",
+      "totalAda": 7999000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht79wk1oshrSUUKaQUzdL2KP4LUv3GQkX5n3skFxG5XH5scoeXejo9JKNL5xtFjQz5jgbgPk4XBDhca34eLt2TPjBbXHrKb",
+      "totalAda": 8000000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht9UGYS8ZwsjMeLXvZ9YgHQZpJtvpJVASLxjRq4ia9568WsMuVd3eyrJkrjpzYyR6dQrda6YdyFaUQgkX3MjUaEbJjPzB4X",
+      "totalAda": 140099000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht79wk1oshrSUUKaQUzdL2KP4LUv3GQkX5n3skFxG5XH5scoeXejo9JKNL5xtFjQz5jgbgPk4XBDhca34eLt2TPjBbXHrKb",
+      "totalAda": 4999000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht79wk1oshrSUUKaQUzdL2KP4LUv3GQkX5n3skFxG5XH5scoeXejo9JKNL5xtFjQz5jgbgPk4XBDhca34eLt2TPjBbXHrKb",
+      "totalAda": 5000000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht79wk1oshrSUUKaQUzdL2KP4LUv3GQkX5n3skFxG5XH5scoeXejo9JKNL5xtFjQz5jgbgPk4XBDhca34eLt2TPjBbXHrKb",
+      "totalAda": 5000000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht79wk1oshrSUUKaQUzdL2KP4LUv3GQkX5n3skFxG5XH5scoeXejo9JKNL5xtFjQz5jgbgPk4XBDhca34eLt2TPjBbXHrKb",
+      "totalAda": 5000000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht79wk1oshrSUUKaQUzdL2KP4LUv3GQkX5n3skFxG5XH5scoeXejo9JKNL5xtFjQz5jgbgPk4XBDhca34eLt2TPjBbXHrKb",
+      "totalAda": 8000000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht79wk1oshrSUUKaQUzdL2KP4LUv3GQkX5n3skFxG5XH5scoeXejo9JKNL5xtFjQz5jgbgPk4XBDhca34eLt2TPjBbXHrKb",
+      "totalAda": 8000000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht79wk1oshrSUUKaQUzdL2KP4LUv3GQkX5n3skFxG5XH5scoeXejo9JKNL5xtFjQz5jgbgPk4XBDhca34eLt2TPjBbXHrKb",
+      "totalAda": 8000000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht79wk1oshrSUUKaQUzdL2KP4LUv3GQkX5n3skFxG5XH5scoeXejo9JKNL5xtFjQz5jgbgPk4XBDhca34eLt2TPjBbXHrKb",
+      "totalAda": 8000000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht79wk1oshrSUUKaQUzdL2KP4LUv3GQkX5n3skFxG5XH5scoeXejo9JKNL5xtFjQz5jgbgPk4XBDhca34eLt2TPjBbXHrKb",
+      "totalAda": 8000000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht79wk1oshrSUUKaQUzdL2KP4LUv3GQkX5n3skFxG5XH5scoeXejo9JKNL5xtFjQz5jgbgPk4XBDhca34eLt2TPjBbXHrKb",
+      "totalAda": 8000000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht79wk1oshrSUUKaQUzdL2KP4LUv3GQkX5n3skFxG5XH5scoeXejo9JKNL5xtFjQz5jgbgPk4XBDhca34eLt2TPjBbXHrKb",
+      "totalAda": 8000000,
+      "label": "BYRON"
+    },
+    {
+      "address": "addr1v85verr0cdutchp2d2gq8khl2m2kg0ztycvt0s7j4krnpwc5tycss",
+      "totalAda": 10000000,
+      "label": "SHELLEY_NO_STAKE"
+    },
+    {
+      "address": "DdzFFzCqrht79wk1oshrSUUKaQUzdL2KP4LUv3GQkX5n3skFxG5XH5scoeXejo9JKNL5xtFjQz5jgbgPk4XBDhca34eLt2TPjBbXHrKb",
+      "totalAda": 10000000,
+      "label": "BYRON"
+    },
+    {
+      "address": "addr1v86wcuhmytkm69npjmw2ggxzpx6kmj6gjmehr2whtrfsgccellhkm",
+      "totalAda": 10,
+      "label": "SHELLEY_NO_STAKE"
+    },
+    {
+      "address": "addr1v86wcuhmytkm69npjmw2ggxzpx6kmj6gjmehr2whtrfsgccellhkm",
+      "totalAda": 23000000,
+      "label": "SHELLEY_NO_STAKE"
+    },
+    {
+      "address": "addr1v85verr0cdutchp2d2gq8khl2m2kg0ztycvt0s7j4krnpwc5tycss",
+      "totalAda": 2009394,
+      "label": "SHELLEY_NO_STAKE"
+    },
+    {
+      "address": "DdzFFzCqrht79wk1oshrSUUKaQUzdL2KP4LUv3GQkX5n3skFxG5XH5scoeXejo9JKNL5xtFjQz5jgbgPk4XBDhca34eLt2TPjBbXHrKb",
+      "totalAda": 1000000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht79wk1oshrSUUKaQUzdL2KP4LUv3GQkX5n3skFxG5XH5scoeXejo9JKNL5xtFjQz5jgbgPk4XBDhca34eLt2TPjBbXHrKb",
+      "totalAda": 3990000,
+      "label": "BYRON"
+    },
+    {
+      "address": "addr1v8jjaxdkkpswan9ma0ll55tmykvmptpsjluj7cehtvlrk4s409mdr",
+      "totalAda": 10000008,
+      "label": "SHELLEY_NO_STAKE"
+    },
+    {
+      "address": "DdzFFzCqrhsfTmrSU8YKwhCBCXYcPb3NC2ti6gy17CzP93CsKSWH7FgG8ePyK86ewW7UbAQD9QWwqZXDqcnHQ29yPraMkExyvM5L6qb9",
+      "totalAda": 429900,
+      "label": "BYRON"
+    },
+    {
+      "address": "addr1v86wcuhmytkm69npjmw2ggxzpx6kmj6gjmehr2whtrfsgccellhkm",
+      "totalAda": 100,
+      "label": "SHELLEY_NO_STAKE"
+    },
+    {
+      "address": "addr1v86wcuhmytkm69npjmw2ggxzpx6kmj6gjmehr2whtrfsgccellhkm",
+      "totalAda": 9999900,
+      "label": "SHELLEY_NO_STAKE"
+    },
+    {
+      "address": "addr1v85verr0cdutchp2d2gq8khl2m2kg0ztycvt0s7j4krnpwc5tycss",
+      "totalAda": 8434520,
+      "label": "SHELLEY_NO_STAKE"
+    },
+    {
+      "address": "addr1vxtfsxwrcq4w5ujggvdk6klqt3kt9hux9m7hdrrrfelsv4s6rfrd8",
+      "totalAda": 36696617,
+      "label": "SHELLEY_NO_STAKE"
+    },
+    {
+      "address": "addr1vytt73vng6q2slastjdacqmvv880qd82yyjmteljp53pshcpavf4m",
+      "totalAda": 653911,
+      "label": "SHELLEY_NO_STAKE"
+    },
+    {
+      "address": "addr1v87yg7ersxmfgxjxcmpcq7fwgz343xyjjpg05mavphnxhxcywklux",
+      "totalAda": 388614,
+      "label": "SHELLEY_NO_STAKE"
+    },
+    {
+      "address": "addr1vy0mcutrc60hpwat2q66caszw45ckpenreexuqmgadt6tvqj7kwt6",
+      "totalAda": 130730,
+      "label": "SHELLEY_NO_STAKE"
+    },
+    {
+      "address": "addr1v85verr0cdutchp2d2gq8khl2m2kg0ztycvt0s7j4krnpwc5tycss",
+      "totalAda": 19982505,
+      "label": "SHELLEY_NO_STAKE"
+    },
+    {
+      "address": "addr1v94725lv4umktv89cg2t04qjn4qq3p6l6zegvtx5esu2zuqfd487u",
+      "totalAda": 68910138,
+      "label": "SHELLEY_NO_STAKE"
+    },
+    {
+      "address": "addr1v804tgee0m3ww7z93zh64wr9flqh9psdhnxg6cykfudgulg6f633p",
+      "totalAda": 18000997,
+      "label": "SHELLEY_NO_STAKE"
+    },
+    {
+      "address": "addr1vx7j284mqe59w2mka36gf5xq0hvu8ms2989553fk5qh3prcapfpj3",
+      "totalAda": 5999998,
+      "label": "SHELLEY_NO_STAKE"
+    },
+    {
+      "address": "addr1v8xuf6k2h79wm3983vng6pjuht2u0dlfywv34q5sgzr0ldqtnnkzd",
+      "totalAda": 8508875,
+      "label": "SHELLEY_NO_STAKE"
+    },
+    {
+      "address": "addr1v85verr0cdutchp2d2gq8khl2m2kg0ztycvt0s7j4krnpwc5tycss",
+      "totalAda": 8000000,
+      "label": "SHELLEY_NO_STAKE"
+    },
+    {
+      "address": "addr1v85verr0cdutchp2d2gq8khl2m2kg0ztycvt0s7j4krnpwc5tycss",
+      "totalAda": 18289462,
+      "label": "SHELLEY_NO_STAKE"
+    },
+    {
+      "address": "addr1v85verr0cdutchp2d2gq8khl2m2kg0ztycvt0s7j4krnpwc5tycss",
+      "totalAda": 18289462,
+      "label": "SHELLEY_NO_STAKE"
+    },
+    {
+      "address": "addr1v85verr0cdutchp2d2gq8khl2m2kg0ztycvt0s7j4krnpwc5tycss",
+      "totalAda": 16259000,
+      "label": "SHELLEY_NO_STAKE"
+    },
+    {
+      "address": "DdzFFzCqrht9UGYS8ZwsjMeLXvZ9YgHQZpJtvpJVASLxjRq4ia9568WsMuVd3eyrJkrjpzYyR6dQrda6YdyFaUQgkX3MjUaEbJjPzB4X",
+      "totalAda": 2000000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht9UGYS8ZwsjMeLXvZ9YgHQZpJtvpJVASLxjRq4ia9568WsMuVd3eyrJkrjpzYyR6dQrda6YdyFaUQgkX3MjUaEbJjPzB4X",
+      "totalAda": 5000000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht9UGYS8ZwsjMeLXvZ9YgHQZpJtvpJVASLxjRq4ia9568WsMuVd3eyrJkrjpzYyR6dQrda6YdyFaUQgkX3MjUaEbJjPzB4X",
+      "totalAda": 13000000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht9UGYS8ZwsjMeLXvZ9YgHQZpJtvpJVASLxjRq4ia9568WsMuVd3eyrJkrjpzYyR6dQrda6YdyFaUQgkX3MjUaEbJjPzB4X",
+      "totalAda": 9700000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht9UGYS8ZwsjMeLXvZ9YgHQZpJtvpJVASLxjRq4ia9568WsMuVd3eyrJkrjpzYyR6dQrda6YdyFaUQgkX3MjUaEbJjPzB4X",
+      "totalAda": 9700000,
+      "label": "BYRON"
+    },
+    {
+      "address": "addr1v9km0l2rg3gsxu75psczydqf27l42um4tkactle4ap20e3chdp35c",
+      "totalAda": 10000000,
+      "label": "SHELLEY_NO_STAKE"
+    },
+    {
+      "address": "addr1v804tgee0m3ww7z93zh64wr9flqh9psdhnxg6cykfudgulg6f633p",
+      "totalAda": 40002871,
+      "label": "SHELLEY_NO_STAKE"
+    },
+    {
+      "address": "addr1v9c6ea093f2ll8khdqx5tm80eppcxhhpgx6rmw5w068gdng9e3lq0",
+      "totalAda": 100,
+      "label": "SHELLEY_NO_STAKE"
+    },
+    {
+      "address": "DdzFFzCqrht79wk1oshrSUUKaQUzdL2KP4LUv3GQkX5n3skFxG5XH5scoeXejo9JKNL5xtFjQz5jgbgPk4XBDhca34eLt2TPjBbXHrKb",
+      "totalAda": 5990000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht4T9WLYom1jfzCk7UPMojgJy2dZencB9EQzw4Dq4Lx3GkLPUpEkdk3aVdPH8PQW5JgGTEECR2JMKPrqHHzDtFmkVkNVDbD",
+      "totalAda": 5000000,
+      "label": "BYRON"
+    },
+    {
+      "address": "addr1v85verr0cdutchp2d2gq8khl2m2kg0ztycvt0s7j4krnpwc5tycss",
+      "totalAda": 3584881,
+      "label": "SHELLEY_NO_STAKE"
+    },
+    {
+      "address": "DdzFFzCqrht9UGYS8ZwsjMeLXvZ9YgHQZpJtvpJVASLxjRq4ia9568WsMuVd3eyrJkrjpzYyR6dQrda6YdyFaUQgkX3MjUaEbJjPzB4X",
+      "totalAda": 50000000,
+      "label": "BYRON"
+    },
+    {
+      "address": "DdzFFzCqrht9UGYS8ZwsjMeLXvZ9YgHQZpJtvpJVASLxjRq4ia9568WsMuVd3eyrJkrjpzYyR6dQrda6YdyFaUQgkX3MjUaEbJjPzB4X",
+      "totalAda": 9000000,
+      "label": "BYRON"
+    },
+    {
+      "address": "addr1v9km0l2rg3gsxu75psczydqf27l42um4tkactle4ap20e3chdp35c",
+      "totalAda": 10000000,
+      "label": "SHELLEY_NO_STAKE"
+    },
+    {
+      "address": "addr1v9xm9c706z3mxtgypchqdzrjxreqn795fq966t7kku25zpc9s2n62",
+      "totalAda": 55181023,
+      "label": "SHELLEY_NO_STAKE"
+    },
+    {
+      "address": "addr1vxlumr54slu9f923ygh9q6lsfn8ykswxk5add6yhw4xfkxqnge9mv",
+      "totalAda": 219107,
+      "label": "SHELLEY_NO_STAKE"
+    },
+    {
+      "address": "addr1v82gxam4682d984wz6a2nwysjtzkzm9evjqllcl6s3vaekqpme5rz",
+      "totalAda": 145177,
+      "label": "SHELLEY_NO_STAKE"
+    },
+    {
+      "address": "addr1v800684a69tn4nyl0lt0ayrwx27jr6ad74gf7la8feqlx5q3cmv4c",
+      "totalAda": 11131,
+      "label": "SHELLEY_NO_STAKE"
+    },
+    {
+      "address": "addr1v9lygtzpra2erwe7687gzl09463mxlgru8yc8wy522pz0as9jzg3r",
+      "totalAda": 3,
+      "label": "SHELLEY_NO_STAKE"
+    },
+    {
+      "address": "DdzFFzCqrht79wk1oshrSUUKaQUzdL2KP4LUv3GQkX5n3skFxG5XH5scoeXejo9JKNL5xtFjQz5jgbgPk4XBDhca34eLt2TPjBbXHrKb",
+      "totalAda": 6999000,
+      "label": "BYRON"
+    },
+    {
+      "address": "addr1v9u5ry9g59jsqypemxvt2fkn4l9zqedlrc932g33yltvsac3er9yv",
+      "totalAda": 17641024,
+      "label": "SHELLEY_NO_STAKE"
+    },
+    {
+      "address": "DdzFFzCqrhsnQ1Hazye5GLDc7HX7hoFwyMXZ8AUew18aAqdWVaM1FexoPXCTM5k8pnM39t8XZMEQH8ySyv2rGCuZnpGMCziJFWggLUCR",
+      "totalAda": 234686,
+      "label": "BYRON"
+    },
+    {
+      "address": "Ae2tdPwUPEYxLevqCRpFo1BgppybCW35Z6pzJNVJdpXHxz25Sp1pH8fB1nD",
+      "totalAda": 194534,
+      "label": "BYRON"
+    }
+  ],
+  "summary": {
+    "total": 78,
+    "withDrep": 9,
+    "withPool": 50,
+    "alwaysAbstain": 5,
+    "alwaysNoConfidence": 1,
+    "actualDrep": 3,
+    "noDrep": 69,
+    "noStakeKey": 89,
+    "adaByDrepType": {
+      "always_abstain": 142700020,
+      "always_no_confidence": 2697696225,
+      "actual_drep": 497185745,
+      "no_drep": 9293547011,
+      "no_stake_key": 1041065727
+    }
+  },
+  "adaByDrepType": {
+    "always_abstain": 142700020,
+    "always_no_confidence": 2697696225,
+    "actual_drep": 497185745,
+    "no_drep": 9293547011,
+    "no_stake_key": 1041065727
+  }
+}

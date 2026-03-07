@@ -1,0 +1,134 @@
+{
+  "entityName": "Cardano Foundation",
+  "genesisAda": 648176761,
+  "visited": 500,
+  "apiCalls": 2287,
+  "shelleyHits": [
+    {
+      "depth": 19,
+      "address": "addr1qxkwpvmngysh27gy39d865dpwkexnnvqfszx8gtjd2ajatrqyjx9ms9nlvr5ffsa6rj3ykuhw9ycfdnw4cju24yq9fnsy0wyrd",
+      "type": "SHELLEY",
+      "currentBalance": 0,
+      "stakeAddress": "stake1u9szfrzaczelkp6y5cwapegjtwthzjvykeh2ufw92jqz5ecm0wpfw",
+      "flowedAda": 639106529,
+      "governance": {
+        "pool": null,
+        "drep": null,
+        "active": false,
+        "controlledAda": 0
+      }
+    },
+    {
+      "depth": 19,
+      "address": "addr1q9laxlve0ujazueda8f5lx7d4rcr4gcgvuwk457pfzynl2rqyjx9ms9nlvr5ffsa6rj3ykuhw9ycfdnw4cju24yq9fnslusdkg",
+      "type": "SHELLEY",
+      "currentBalance": 0,
+      "stakeAddress": "stake1u9szfrzaczelkp6y5cwapegjtwthzjvykeh2ufw92jqz5ecm0wpfw",
+      "flowedAda": 2000980,
+      "governance": {
+        "pool": null,
+        "drep": null,
+        "active": false,
+        "controlledAda": 0
+      }
+    },
+    {
+      "depth": 22,
+      "address": "addr1qyjrlen3sq5hrd39ppl8sy33pjlts7e8044elf88e8atftmnad5jdfsg5uwl8x7ttdz862xtygmmnhnus9t38zavydxqkg29vu",
+      "type": "SHELLEY",
+      "currentBalance": 0,
+      "stakeAddress": "stake1u9e7k6fx5cy2w80nn094k3ra9r9jydaeme7gz4cn3wkzxnqztk7ek",
+      "flowedAda": 1999999,
+      "governance": {
+        "pool": "pool1u0mc9ywfxl529atxyajuz3pgqnwgnk6w7lejjmjg22ucvn7z9vh",
+        "drep": "drep1y2200we9c904un36tzaearntzzl63snffuul9qsk0te4utqfkke0w",
+        "active": true,
+        "controlledAda": 4525
+      }
+    },
+    {
+      "depth": 18,
+      "address": "addr1q8rqxmeya4uxj7axh3366j3nz599yy7zamvyxq60nex90u5xzh4nj0nw53m7yfd0e09lxrre47t0my5qac2sp90z68qsudrs2d",
+      "type": "SHELLEY",
+      "currentBalance": 0,
+      "stakeAddress": "stake1uxrpt6ee8eh2galzykhuhjlnp3u6l9haj2qwu9gqjh3drsgnqv7f2",
+      "flowedAda": 1804656,
+      "governance": {
+        "pool": null,
+        "drep": null,
+        "active": false,
+        "controlledAda": 0
+      }
+    },
+    {
+      "depth": 23,
+      "address": "addr1q9fsg4g6aemy7aq4y4nzp5tkxu9pqrk92w72q6cl37k9j5gha2lc2u52ty9h0p0j04sdaf75hje4ddpch82h0fz4gllq5qwur3",
+      "type": "SHELLEY",
+      "currentBalance": 0,
+      "stakeAddress": "stake1uyt740u9w299jzmhshe86cx75l2tev6kksutn4th53250lsage6jk",
+      "flowedAda": 1883786,
+      "governance": {
+        "pool": null,
+        "drep": null,
+        "active": false,
+        "controlledAda": 13
+      }
+    }
+  ],
+  "byronTerminals": [],
+  "stakeKeyClusters": [
+    {
+      "stakeAddress": "stake1u9szfrzaczelkp6y5cwapegjtwthzjvykeh2ufw92jqz5ecm0wpfw",
+      "addressCount": 2,
+      "totalFlowedAda": 641107509,
+      "totalCurrentAda": 0,
+      "governance": {
+        "pool": null,
+        "drep": null,
+        "active": false,
+        "controlledAda": 0
+      }
+    },
+    {
+      "stakeAddress": "stake1u9e7k6fx5cy2w80nn094k3ra9r9jydaeme7gz4cn3wkzxnqztk7ek",
+      "addressCount": 1,
+      "totalFlowedAda": 1999999,
+      "totalCurrentAda": 0,
+      "governance": {
+        "pool": "pool1u0mc9ywfxl529atxyajuz3pgqnwgnk6w7lejjmjg22ucvn7z9vh",
+        "drep": "drep1y2200we9c904un36tzaearntzzl63snffuul9qsk0te4utqfkke0w",
+        "active": true,
+        "controlledAda": 4525
+      }
+    },
+    {
+      "stakeAddress": "stake1uxrpt6ee8eh2galzykhuhjlnp3u6l9haj2qwu9gqjh3drsgnqv7f2",
+      "addressCount": 1,
+      "totalFlowedAda": 1804656,
+      "totalCurrentAda": 0,
+      "governance": {
+        "pool": null,
+        "drep": null,
+        "active": false,
+        "controlledAda": 0
+      }
+    },
+    {
+      "stakeAddress": "stake1uyt740u9w299jzmhshe86cx75l2tev6kksutn4th53250lsage6jk",
+      "addressCount": 1,
+      "totalFlowedAda": 1883786,
+      "totalCurrentAda": 0,
+      "governance": {
+        "pool": null,
+        "drep": null,
+        "active": false,
+        "controlledAda": 13
+      }
+    }
+  ],
+  "summary": {
+    "totalAdaAtShelley": 0,
+    "totalAdaAtByronTerminals": 0,
+    "coveragePercent": "0.0000"
+  }
+}
