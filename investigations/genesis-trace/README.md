@@ -1,7 +1,8 @@
 # Genesis Fund Trace
 
-**Status:** In Progress (exhaustive scan running)
+**Status:** In Progress (exhaustive verification running)
 **Started:** March 7, 2026
+**Last Update:** March 7, 2026 @ 21:15 UTC
 
 ## The Question
 
@@ -61,6 +62,21 @@ All tracer scripts are in the [`tools/`](tools/) directory. Built on Node.js wit
 10. DRep delegator genesis trace (all 400 Emurgo delegators)
 11. Link-chain aggregation (chain-of-custody records)
 
+## Live Scan Progress
+
+| Scan | Progress | Status |
+|------|----------|--------|
+| Drain Trace | 364/1188 addresses | Running |
+| Neighborhood Scan | 35/53 stake keys | Running |
+| Full Forward Trace | 26,600 addresses visited | Paused |
+| Reverse Trace | Partial | Paused |
+
+**Exhaustive verification in progress.** All hard caps removed. Running until API quota exhausted.
+
+### Convergence Finding
+
+After tracing 350+ drain addresses (16.58B ADA outflow, 3,328 destinations), all 78 unique destination stake keys mapped back to the same set already identified in Phase 5. The genesis fund distribution tree is wide (thousands of intermediary addresses) but converges to ~53 active stake keys. This convergence strengthens confidence in the governance findings.
+
 ---
 
-*Investigation ongoing. Exhaustive uncapped scans currently running.*
+*Investigation ongoing. Exhaustive uncapped scans currently running until complete.*
