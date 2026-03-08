@@ -29,7 +29,7 @@ const api = createClient();
 
 const outputDir = path.join(__dirname, 'output');
 const progressFile = path.join(outputDir, 'drain-trace-progress.json');
-const SAVE_INTERVAL = 25;
+const SAVE_INTERVAL = 1;  // Save after every key — never lose progress
 
 function loadProgress() {
   if (fs.existsSync(progressFile)) {

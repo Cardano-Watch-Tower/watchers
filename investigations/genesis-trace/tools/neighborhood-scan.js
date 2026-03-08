@@ -22,8 +22,8 @@ const api = createClient();
 
 const outputDir = path.join(__dirname, 'output');
 const progressFile = path.join(outputDir, 'neighborhood-progress.json');
-const SAVE_INTERVAL = 5;
-// UNCAPPED — scan ALL addresses, ALL transactions, ALL neighbors
+const SAVE_INTERVAL = 1;  // Save after EVERY key — never lose progress
+const MAX_TXS_PER_ADDRESS = 500;  // Cap per address to avoid stalling on whale keys
 
 function loadProgress() {
   if (fs.existsSync(progressFile)) {
@@ -66,6 +66,10 @@ async function getAllAddressTxs(address) {
       );
       if (!batch || batch.length === 0) break;
       allTxs.push(...batch);
+      if (allTxs.length >= MAX_TXS_PER_ADDRESS) {
+        console.log(`      (capped at ${MAX_TXS_PER_ADDRESS} txs for ${address.substring(0, 30)}...)`);
+        break;
+      }
       if (batch.length < 100) break;
       page++;
     } catch (err) {
@@ -187,7 +191,7 @@ async function main() {
     .sort((a, b) => b.totalAdaFlowed - a.totalAdaFlowed);
 
   console.log(`\nFound ${stakeKeys.length} stake keys with current ADA to scan`);
-  console.log(`UNCAPPED — scanning ALL addresses x ALL txs per key\n`);
+  console.log(`Max ${MAX_TXS_PER_ADDRESS} txs per address | Saving after every key\n`);
 
   // Check for resume
   const saved = loadProgress();
